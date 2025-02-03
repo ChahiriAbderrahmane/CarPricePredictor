@@ -36,7 +36,7 @@ st.write("""The **price prediction model** is built using a **RandomForestRegres
          using **Streamlit**, enabling users to input their own data and receive a **price prediction** based on the model.
          """)
 
-st.write("I would like to highlight that the scraped data is from January 20, 2025.")
+st.write("I would like to highlight that the scraped data is from January 20, 2025, and I contributed it on Kaggle.")
 
 st.markdown("---")
 
@@ -48,7 +48,7 @@ st.markdown("---")
 
 st.markdown("### 🔗 Links :")
 
-st.markdown("""##### [🚗 Cars.com](https://www.cars.com/) | [📨 Contact me via LinkedIn](https://www.linkedin.com/in/abderrahmane-chahiri-151b26237/) """)
+st.markdown("""##### [🚗 Cars.com](https://www.cars.com/) | [📘 Data on Kaggle](https://www.kaggle.com/datasets/chahiriiscoding/car-sales-data-from-cars-com) |  [😼 See full project on GitHub](https://github.com/ChahiriAbderrahmane/CarPricePredictor) |[📨 Contact me via LinkedIn](https://www.linkedin.com/in/abderrahmane-chahiri-151b26237/) """)
 
 with st.sidebar:
     st.title('🚗 Cars Exploration & Price Prediction | Analyzing Cars.com Listings')
