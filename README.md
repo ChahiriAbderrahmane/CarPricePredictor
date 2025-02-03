@@ -26,11 +26,9 @@
 
 1. [ Project Overview ](#introduction)
 2. [ Project Architecture ](#arch)
-3. [ Web Scrapinng ](#webscraping)
-4. [ Data Cleaning, EDA and Model Building](#dataedamodel)
-5. [ Installation ](#installation)
-6. [ References ](#refs)
-7. [ Contact ](#contact)
+3. [ Data Cleaning, EDA and Model Building](#dataedamodel)
+4. [ Installation ](#installation)
+5. [ Contact ](#contact)
 <hr>
 
 ### 🕵️ Data Exploration Page
@@ -125,3 +123,7 @@ streamlit run streamlit/Cars_Exploration_Aanlysis_app.py
 
 <a name="refs"></a>
 
+## 📨 Contact Me
+
+[LinkedIn](https://www.linkedin.com/in/abderrahmane-chahiri-151b26237/) •
+[Gmail](chahiri.abderrahmane.eng@gmail.com)
