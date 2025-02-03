@@ -1,0 +1,1084 @@
+{
+  "cars": [
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "42333",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "42335",
+        "html_tag": "h2",
+        "name": "2023 Acura MDX Technology Package",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "42336",
+        "html_tag": "div",
+        "name": "21,211 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "42338",
+        "html_tag": "span",
+        "name": "$43,498",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "42347",
+        "html_tag": "span",
+        "name": "Est. $818/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "42370",
+        "html_tag": "strong",
+        "name": "McGrath Acura of Downtown Chicago",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "42492",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "42494",
+        "html_tag": "h2",
+        "name": "2025 Mercedes-Benz Sprinter 2500 Standard Roof",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "42496",
+        "html_tag": "span",
+        "name": "$66,638",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "42505",
+        "html_tag": "span",
+        "name": "Est. $1,253/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "42515",
+        "html_tag": "strong",
+        "name": "Mercedes-Benz of Chicago",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "42637",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "42639",
+        "html_tag": "h2",
+        "name": "2024 Subaru Crosstrek Limited",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "42641",
+        "html_tag": "span",
+        "name": "$33,398",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "42650",
+        "html_tag": "span",
+        "name": "Est. $628/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "42660",
+        "html_tag": "strong",
+        "name": "Berman Subaru of Chicago",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "42782",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "42784",
+        "html_tag": "h2",
+        "name": "2019 Volvo S60 T5 Momentum",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "42785",
+        "html_tag": "div",
+        "name": "29,843 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "42787",
+        "html_tag": "span",
+        "name": "$20,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "42795",
+        "html_tag": "span",
+        "name": "Est. $395/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "42818",
+        "html_tag": "strong",
+        "name": "CarMax Reno",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "42969",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "42971",
+        "html_tag": "h2",
+        "name": "2019 Ford Transit-250 Base",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "42972",
+        "html_tag": "div",
+        "name": "48,582 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "42974",
+        "html_tag": "span",
+        "name": "$24,995",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "42983",
+        "html_tag": "span",
+        "name": "Est. $470/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "43006",
+        "html_tag": "strong",
+        "name": "Baha Auto Group Inc.",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "43154",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "43156",
+        "html_tag": "h2",
+        "name": "2024 Hyundai Venue SE",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "43157",
+        "html_tag": "div",
+        "name": "2,004 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "43159",
+        "html_tag": "span",
+        "name": "$19,995",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "43167",
+        "html_tag": "span",
+        "name": "Est. $376/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "43190",
+        "html_tag": "strong",
+        "name": "Ettleson Hyundai",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "43338",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "43340",
+        "html_tag": "h2",
+        "name": "2016 Ford Escape SE",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "43341",
+        "html_tag": "div",
+        "name": "120,960 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "43343",
+        "html_tag": "span",
+        "name": "$12,599",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "43351",
+        "html_tag": "span",
+        "name": "Est. $237/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "43374",
+        "html_tag": "strong",
+        "name": "CarMax Greenville NC",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "43522",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "43524",
+        "html_tag": "h2",
+        "name": "2025 Acura RDX Technology Package",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "43526",
+        "html_tag": "span",
+        "name": "$49,250",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "43535",
+        "html_tag": "span",
+        "name": "Est. $926/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "43545",
+        "html_tag": "strong",
+        "name": "McGrath Acura of Morton Grove",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "43669",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "43671",
+        "html_tag": "h2",
+        "name": "2024 Lotus Emira First Edition",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "43673",
+        "html_tag": "span",
+        "name": "$99,940",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "43681",
+        "html_tag": "span",
+        "name": "Est. $1,879/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "43691",
+        "html_tag": "strong",
+        "name": "Glenview Luxury Imports",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "43801",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "43803",
+        "html_tag": "h2",
+        "name": "2024 Kia Soul LX",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "43804",
+        "html_tag": "div",
+        "name": "20,517 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "43806",
+        "html_tag": "span",
+        "name": "$16,948",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "43814",
+        "html_tag": "span",
+        "name": "Est. $319/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "43837",
+        "html_tag": "strong",
+        "name": "Hertz Car Sales Des Plaines",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "43985",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "43987",
+        "html_tag": "h2",
+        "name": "2025 Mercedes-Benz Sprinter 2500 High Roof",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "43989",
+        "html_tag": "span",
+        "name": "$69,854",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "43997",
+        "html_tag": "span",
+        "name": "Est. $1,313/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "44007",
+        "html_tag": "strong",
+        "name": "Mercedes-Benz of Westmont",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "44129",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "44131",
+        "html_tag": "h2",
+        "name": "2025 Mercedes-Benz GLE-Class AMG GLE 53",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "44133",
+        "html_tag": "span",
+        "name": "$100,195",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "44141",
+        "html_tag": "span",
+        "name": "Est. $1,883/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "44151",
+        "html_tag": "strong",
+        "name": "Mercedes-Benz of Westmont",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "44275",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "44277",
+        "html_tag": "h2",
+        "name": "2025 RAM ProMaster 2500 High Roof",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "44279",
+        "html_tag": "span",
+        "name": "$52,338",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "44289",
+        "html_tag": "span",
+        "name": "Est. $984/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "44299",
+        "html_tag": "strong",
+        "name": "Fields Chrysler Jeep Dodge RAM",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "44447",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "44449",
+        "html_tag": "h2",
+        "name": "2022 Dodge Charger SRT Hellcat Widebody Jailbreak",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "44450",
+        "html_tag": "div",
+        "name": "1,608 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "44452",
+        "html_tag": "span",
+        "name": "$89,995",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "44460",
+        "html_tag": "span",
+        "name": "Est. $1,692/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "44476",
+        "html_tag": "strong",
+        "name": "Bill Kay Buick GMC",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "44598",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "44600",
+        "html_tag": "h2",
+        "name": "2024 Ford Bronco Sport Outer Banks",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "44602",
+        "html_tag": "span",
+        "name": "$33,900",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "44611",
+        "html_tag": "span",
+        "name": "Est. $637/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "44621",
+        "html_tag": "strong",
+        "name": "Joe Rizza Ford Lincoln",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "44743",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "44745",
+        "html_tag": "h2",
+        "name": "2025 Acura Integra Type S",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "44747",
+        "html_tag": "span",
+        "name": "$54,395",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "44756",
+        "html_tag": "span",
+        "name": "Est. $1,022/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "44766",
+        "html_tag": "strong",
+        "name": "Acura Highland Park",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "44890",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "44892",
+        "html_tag": "h2",
+        "name": "2024 Ford Bronco Big Bend",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "44894",
+        "html_tag": "span",
+        "name": "$46,237",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "44902",
+        "html_tag": "span",
+        "name": "Est. $869/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "44919",
+        "html_tag": "strong",
+        "name": "Arlington Heights Ford",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "45041",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "45043",
+        "html_tag": "h2",
+        "name": "2025 Ford Explorer ST-Line",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "45045",
+        "html_tag": "span",
+        "name": "$52,215",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "45053",
+        "html_tag": "span",
+        "name": "Est. $981/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "45063",
+        "html_tag": "strong",
+        "name": "Webb Ford",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "45185",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "45187",
+        "html_tag": "h2",
+        "name": "2025 Nissan Kicks SR",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "45189",
+        "html_tag": "span",
+        "name": "$25,297",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "45198",
+        "html_tag": "span",
+        "name": "Est. $475/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "45215",
+        "html_tag": "strong",
+        "name": "Arlington Nissan",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "45337",
+        "html_tag": "p",
+        "name": "Hyundai Certified",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "45339",
+        "html_tag": "h2",
+        "name": "2022 Hyundai Sonata Limited",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "45340",
+        "html_tag": "div",
+        "name": "27,326 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "45342",
+        "html_tag": "span",
+        "name": "$23,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "45350",
+        "html_tag": "span",
+        "name": "Est. $451/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "45379",
+        "html_tag": "strong",
+        "name": "Hyundai of Palatine",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "45501",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "45503",
+        "html_tag": "h2",
+        "name": "2013 Toyota Tacoma Base",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "45504",
+        "html_tag": "div",
+        "name": "143,659 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "45506",
+        "html_tag": "span",
+        "name": "$17,997",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "45515",
+        "html_tag": "span",
+        "name": "Est. $338/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "45538",
+        "html_tag": "strong",
+        "name": "Napleton Nissan",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "45660",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "45662",
+        "html_tag": "h2",
+        "name": "2019 Ford Edge Titanium",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "45663",
+        "html_tag": "div",
+        "name": "81,031 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "45665",
+        "html_tag": "span",
+        "name": "$14,995",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "45673",
+        "html_tag": "span",
+        "name": "Est. $282/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "45696",
+        "html_tag": "strong",
+        "name": "Silver Auto Sales Inc.",
+        "attributes": {}
+      }
+    }
+  ]
+}

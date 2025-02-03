@@ -1,0 +1,1015 @@
+{
+  "cars": [
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "209406",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "209408",
+        "html_tag": "h2",
+        "name": "2025 Volkswagen Atlas Cross Sport 2.0T SE w/Technology 4MOTION",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "209410",
+        "html_tag": "span",
+        "name": "$44,103",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "209420",
+        "html_tag": "span",
+        "name": "Est. $829/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "209430",
+        "html_tag": "strong",
+        "name": "City Volkswagen of Chicago",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "209552",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "209554",
+        "html_tag": "h2",
+        "name": "2025 Nissan Rogue Rock Creek",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "209556",
+        "html_tag": "span",
+        "name": "$38,120",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "209565",
+        "html_tag": "span",
+        "name": "Est. $717/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "209582",
+        "html_tag": "strong",
+        "name": "Al Piemonte Nissan",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "209704",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "209706",
+        "html_tag": "h2",
+        "name": "2024 Ford Bronco Badlands",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "209708",
+        "html_tag": "span",
+        "name": "$61,983",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "209717",
+        "html_tag": "span",
+        "name": "Est. $1,165/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "209727",
+        "html_tag": "strong",
+        "name": "Golf Mill Ford",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "209849",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "209851",
+        "html_tag": "h2",
+        "name": "2013 Lexus GS 350",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "209852",
+        "html_tag": "div",
+        "name": "99,642 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "209854",
+        "html_tag": "span",
+        "name": "$16,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "209862",
+        "html_tag": "span",
+        "name": "Est. $319/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "209885",
+        "html_tag": "strong",
+        "name": "CarMax Greenville",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "210036",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "210038",
+        "html_tag": "h2",
+        "name": "2021 Volkswagen Atlas Cross Sport SE w/Tech",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "210039",
+        "html_tag": "div",
+        "name": "20,023 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "210041",
+        "html_tag": "span",
+        "name": "$26,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "210049",
+        "html_tag": "span",
+        "name": "Est. $507/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "210072",
+        "html_tag": "strong",
+        "name": "CarMax Naples",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "210220",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "210222",
+        "html_tag": "h2",
+        "name": "2022 Ford Escape SEL",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "210223",
+        "html_tag": "div",
+        "name": "28,052 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "210225",
+        "html_tag": "span",
+        "name": "$23,985",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "210233",
+        "html_tag": "span",
+        "name": "Est. $451/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "210256",
+        "html_tag": "strong",
+        "name": "Napleton Ford of Oak Lawn",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "210378",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "210380",
+        "html_tag": "h2",
+        "name": "2025 Acura Integra A-Spec Technology",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "210382",
+        "html_tag": "span",
+        "name": "$39,795",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "210391",
+        "html_tag": "span",
+        "name": "Est. $748/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "210401",
+        "html_tag": "strong",
+        "name": "McGrath Acura of Morton Grove",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "210523",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "210525",
+        "html_tag": "h2",
+        "name": "2024 Ford Bronco Outer Banks",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "210527",
+        "html_tag": "span",
+        "name": "$55,019",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "210535",
+        "html_tag": "span",
+        "name": "Est. $1,034/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "210545",
+        "html_tag": "strong",
+        "name": "Roesch Ford",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "210669",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "210671",
+        "html_tag": "h2",
+        "name": "2015 Lexus RX 350 Base",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "210672",
+        "html_tag": "div",
+        "name": "87,964 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "210674",
+        "html_tag": "span",
+        "name": "$18,403",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "210683",
+        "html_tag": "span",
+        "name": "Est. $346/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "210706",
+        "html_tag": "strong",
+        "name": "Audi Westmont",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "210828",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "210830",
+        "html_tag": "h2",
+        "name": "2025 Mercedes-Benz GLE 450e 4MATIC",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "210832",
+        "html_tag": "span",
+        "name": "$82,145",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "210840",
+        "html_tag": "span",
+        "name": "Est. $1,544/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "210857",
+        "html_tag": "strong",
+        "name": "Mercedes-Benz of Westmont",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "210979",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "210981",
+        "html_tag": "h2",
+        "name": "2018 BMW X2 xDrive28i",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "210982",
+        "html_tag": "div",
+        "name": "53,270 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "210984",
+        "html_tag": "span",
+        "name": "$18,775",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "210993",
+        "html_tag": "span",
+        "name": "Est. $353/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "211022",
+        "html_tag": "strong",
+        "name": "Highline Auto Sales",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "211144",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "211146",
+        "html_tag": "h2",
+        "name": "2024 Honda Prologue Touring",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "211148",
+        "html_tag": "span",
+        "name": "$56,550",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "211157",
+        "html_tag": "span",
+        "name": "Est. $1,063/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "211167",
+        "html_tag": "strong",
+        "name": "Community Honda of Orland Park",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "211291",
+        "html_tag": "p",
+        "name": "Audi Certified",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "211293",
+        "html_tag": "h2",
+        "name": "2024 Audi Q3 S line Premium",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "211294",
+        "html_tag": "div",
+        "name": "2,753 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "211296",
+        "html_tag": "span",
+        "name": "$36,340",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "211305",
+        "html_tag": "span",
+        "name": "Est. $683/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "211334",
+        "html_tag": "strong",
+        "name": "The Audi Exchange",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "211419",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "211421",
+        "html_tag": "h2",
+        "name": "2025 Volvo XC40 B5 Plus Dark Theme",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "211423",
+        "html_tag": "span",
+        "name": "$46,815",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "211433",
+        "html_tag": "span",
+        "name": "Est. $880/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "211443",
+        "html_tag": "strong",
+        "name": "Volvo Cars Lisle",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "211565",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "211567",
+        "html_tag": "h2",
+        "name": "2025 Volvo XC40 B5 Ultra Bright Theme",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "211569",
+        "html_tag": "span",
+        "name": "$50,050",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "211579",
+        "html_tag": "span",
+        "name": "Est. $941/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "211589",
+        "html_tag": "strong",
+        "name": "Volvo Cars Lisle",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "211674",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "211676",
+        "html_tag": "h2",
+        "name": "2025 Volvo XC40 B5 Plus Dark Theme",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "211678",
+        "html_tag": "span",
+        "name": "$48,290",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "211688",
+        "html_tag": "span",
+        "name": "Est. $908/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "211698",
+        "html_tag": "strong",
+        "name": "Volvo Cars Lisle",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "211822",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "211824",
+        "html_tag": "h2",
+        "name": "2024 Ford Bronco Badlands",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "211826",
+        "html_tag": "span",
+        "name": "$54,503",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "211834",
+        "html_tag": "span",
+        "name": "Est. $1,024/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "211844",
+        "html_tag": "strong",
+        "name": "Schaumburg Ford",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "211929",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "211931",
+        "html_tag": "h2",
+        "name": "2025 GMC Terrain AWD Elevation",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "211933",
+        "html_tag": "span",
+        "name": "$36,459",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "211942",
+        "html_tag": "span",
+        "name": "Est. $685/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "211952",
+        "html_tag": "strong",
+        "name": "Woody Buick GMC Naperville",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "212074",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "212076",
+        "html_tag": "h2",
+        "name": "2025 Nissan Sentra SV",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "212222",
+        "html_tag": "div",
+        "name": "166,697 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "212224",
+        "html_tag": "span",
+        "name": "$3,990",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": null,
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "212247",
+        "html_tag": "strong",
+        "name": "NB Motors Inc",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "212342",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "212344",
+        "html_tag": "h2",
+        "name": "2024 INEOS Grenadier Trialmaster",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "212346",
+        "html_tag": "span",
+        "name": "$79,235",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "212354",
+        "html_tag": "span",
+        "name": "Est. $1,489/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "212364",
+        "html_tag": "strong",
+        "name": "Knauz Ineos Grenadier of Lake Bluff",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "212512",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "212514",
+        "html_tag": "h2",
+        "name": "2020 Cadillac Escalade Premium Luxury",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "212515",
+        "html_tag": "div",
+        "name": "51,234 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "212517",
+        "html_tag": "span",
+        "name": "$43,479",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "212526",
+        "html_tag": "span",
+        "name": "Est. $817/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "212549",
+        "html_tag": "strong",
+        "name": "Maserati of Naperville",
+        "attributes": {}
+      }
+    }
+  ]
+}

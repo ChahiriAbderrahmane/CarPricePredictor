@@ -1,0 +1,949 @@
+{
+  "cars": [
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "36371",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "36373",
+        "html_tag": "h2",
+        "name": "2025 Acura Integra A-SPEC",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "36375",
+        "html_tag": "span",
+        "name": "$36,195",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "36384",
+        "html_tag": "span",
+        "name": "Est. $680/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "36394",
+        "html_tag": "strong",
+        "name": "McGrath Acura of Downtown Chicago",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "36516",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "36518",
+        "html_tag": "h2",
+        "name": "2025 Jeep Grand Cherokee Laredo",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "36520",
+        "html_tag": "span",
+        "name": "$36,470",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "36530",
+        "html_tag": "span",
+        "name": "Est. $686/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "36547",
+        "html_tag": "strong",
+        "name": "Marino Chrysler Jeep Dodge RAM",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "36651",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "36653",
+        "html_tag": "h2",
+        "name": "2025 Buick Encore GX Sport Touring",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "36655",
+        "html_tag": "span",
+        "name": "$30,016",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "36664",
+        "html_tag": "span",
+        "name": "Est. $564/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "36674",
+        "html_tag": "strong",
+        "name": "Zeigler Buick GMC of Lincolnwood",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "36796",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "36798",
+        "html_tag": "h2",
+        "name": "2016 Cadillac CT6 Platinum",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "36799",
+        "html_tag": "div",
+        "name": "17,300 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "36801",
+        "html_tag": "span",
+        "name": "$36,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "36809",
+        "html_tag": "span",
+        "name": "Est. $695/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "36832",
+        "html_tag": "strong",
+        "name": "CarMax Algonquin",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "37228",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "37230",
+        "html_tag": "h2",
+        "name": "2022 Chevrolet Blazer RS",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "37231",
+        "html_tag": "div",
+        "name": "27,643 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "37233",
+        "html_tag": "span",
+        "name": "$31,790",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "37242",
+        "html_tag": "span",
+        "name": "Est. $598/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "37265",
+        "html_tag": "strong",
+        "name": "Webb Chevy",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "37387",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "37389",
+        "html_tag": "h2",
+        "name": "2025 GMC Terrain Elevation",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "37391",
+        "html_tag": "span",
+        "name": "$33,890",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "37399",
+        "html_tag": "span",
+        "name": "Est. $637/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "37409",
+        "html_tag": "strong",
+        "name": "Mike Haggerty Buick GMC",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "37533",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "37535",
+        "html_tag": "h2",
+        "name": "2015 Lexus CT 200h",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "37536",
+        "html_tag": "div",
+        "name": "61,987 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "37538",
+        "html_tag": "span",
+        "name": "$19,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "37547",
+        "html_tag": "span",
+        "name": "Est. $376/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "37570",
+        "html_tag": "strong",
+        "name": "CarMax Jackson (MS)",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "37718",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "37720",
+        "html_tag": "h2",
+        "name": "2021 Audi Q8 Premium Plus",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "37721",
+        "html_tag": "div",
+        "name": "47,923 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "37723",
+        "html_tag": "span",
+        "name": "$46,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "37731",
+        "html_tag": "span",
+        "name": "Est. $883/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "37754",
+        "html_tag": "strong",
+        "name": "CarMax Hillside (Eisenhower Expy)",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "37902",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "37904",
+        "html_tag": "h2",
+        "name": "2025 Lincoln Aviator Reserve AWD",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "37906",
+        "html_tag": "span",
+        "name": "$69,309",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "37915",
+        "html_tag": "span",
+        "name": "Est. $1,303/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "37925",
+        "html_tag": "strong",
+        "name": "Napleton Lincoln of Glenview",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "38047",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "38049",
+        "html_tag": "h2",
+        "name": "2025 Subaru Crosstrek Premium",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "38051",
+        "html_tag": "span",
+        "name": "$31,603",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "38059",
+        "html_tag": "span",
+        "name": "Est. $594/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "38069",
+        "html_tag": "strong",
+        "name": "Grand Subaru",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "38193",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "38195",
+        "html_tag": "h2",
+        "name": "2025 Kia Seltos S",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "38197",
+        "html_tag": "span",
+        "name": "$28,155",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "38205",
+        "html_tag": "span",
+        "name": "Est. $529/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "38215",
+        "html_tag": "strong",
+        "name": "Ed Napleton Acura Kia",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "38337",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "38339",
+        "html_tag": "h2",
+        "name": "2024 BMW X2 xDrive28i",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "38340",
+        "html_tag": "div",
+        "name": "12,546 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "38342",
+        "html_tag": "span",
+        "name": "$38,491",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "38351",
+        "html_tag": "span",
+        "name": "Est. $723/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "38374",
+        "html_tag": "strong",
+        "name": "Laurel BMW of Westmont",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "38496",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "38498",
+        "html_tag": "h2",
+        "name": "2025 Cadillac XT4 Premium Luxury",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "38500",
+        "html_tag": "span",
+        "name": "$45,805",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "38508",
+        "html_tag": "span",
+        "name": "Est. $861/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "38518",
+        "html_tag": "strong",
+        "name": "Napleton Cadillac of Northbrook, Rolls-Royce Motor Cars Northbrook, Bentley Northbrook",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "38666",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "38668",
+        "html_tag": "h2",
+        "name": "2025 Hyundai Santa Fe Calligraphy",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "38670",
+        "html_tag": "span",
+        "name": "$49,775",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "38679",
+        "html_tag": "span",
+        "name": "Est. $936/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "38689",
+        "html_tag": "strong",
+        "name": "Family Hyundai",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "38813",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "38815",
+        "html_tag": "h2",
+        "name": "2025 Buick Encore GX Sport Touring",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "38817",
+        "html_tag": "span",
+        "name": "$26,738",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "38826",
+        "html_tag": "span",
+        "name": "Est. $503/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "38836",
+        "html_tag": "strong",
+        "name": "Rizza Cadillac Buick GMC",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "38958",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "38960",
+        "html_tag": "h2",
+        "name": "2025 Hyundai Tucson XRT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "38962",
+        "html_tag": "span",
+        "name": "$34,362",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "38972",
+        "html_tag": "span",
+        "name": "Est. $646/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "38982",
+        "html_tag": "strong",
+        "name": "Patrick Hyundai of Schaumburg",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "39104",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "39106",
+        "html_tag": "h2",
+        "name": "2025 Jeep Grand Cherokee Laredo",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "39108",
+        "html_tag": "span",
+        "name": "$40,875",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "39116",
+        "html_tag": "span",
+        "name": "Est. $768/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "39126",
+        "html_tag": "strong",
+        "name": "Zeigler Chrysler Dodge Jeep Ram of Schaumburg",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "39248",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "39250",
+        "html_tag": "h2",
+        "name": "2024 Dodge Durango R/T",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "39252",
+        "html_tag": "span",
+        "name": "$50,546",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "39261",
+        "html_tag": "span",
+        "name": "Est. $950/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "39271",
+        "html_tag": "strong",
+        "name": "Thomas Dodge Chrysler Jeep RAM of Highland",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "39393",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "39395",
+        "html_tag": "h2",
+        "name": "2025 Mercedes-Benz Sprinter 2500 Standard Roof",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "39397",
+        "html_tag": "span",
+        "name": "$61,310",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "39406",
+        "html_tag": "span",
+        "name": "Est. $1,152/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "39416",
+        "html_tag": "strong",
+        "name": "Mercedes-Benz of Hoffman Estates",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "39538",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "39540",
+        "html_tag": "h2",
+        "name": "2024 Ford Ranger XL",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "39542",
+        "html_tag": "span",
+        "name": "$35,616",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "39551",
+        "html_tag": "span",
+        "name": "Est. $669/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "39561",
+        "html_tag": "strong",
+        "name": "Fair Oaks Ford",
+        "attributes": {}
+      }
+    }
+  ]
+}

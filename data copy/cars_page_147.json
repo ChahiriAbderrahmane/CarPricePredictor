@@ -1,0 +1,1051 @@
+{
+  "cars": [
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "889811",
+        "html_tag": "p",
+        "name": "BMW Certified",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "889813",
+        "html_tag": "h2",
+        "name": "2022 BMW 330 i xDrive",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "889814",
+        "html_tag": "div",
+        "name": "40,564 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "889816",
+        "html_tag": "span",
+        "name": "$31,988",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "889824",
+        "html_tag": "span",
+        "name": "Est. $601/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "889853",
+        "html_tag": "strong",
+        "name": "Perillo BMW",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "889975",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "889977",
+        "html_tag": "h2",
+        "name": "2013 Acura MDX 3.7L",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "889978",
+        "html_tag": "div",
+        "name": "103,666 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "889980",
+        "html_tag": "span",
+        "name": "$11,985",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "889989",
+        "html_tag": "span",
+        "name": "Est. $225/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "890012",
+        "html_tag": "strong",
+        "name": "Luxury Auto Selection",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "890160",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "890162",
+        "html_tag": "h2",
+        "name": "2025 Mercedes-Benz GLE-Class GLE 450e",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "890164",
+        "html_tag": "span",
+        "name": "$77,780",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "890173",
+        "html_tag": "span",
+        "name": "Est. $1,462/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "890183",
+        "html_tag": "strong",
+        "name": "Loeber Motors Mercedes-Benz",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "890278",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "890280",
+        "html_tag": "h2",
+        "name": "2015 Volkswagen Golf SEL",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "890281",
+        "html_tag": "div",
+        "name": "85,044 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "890283",
+        "html_tag": "span",
+        "name": "$13,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "890292",
+        "html_tag": "span",
+        "name": "Est. $263/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "890315",
+        "html_tag": "strong",
+        "name": "CarMax Albany",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "890466",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "890468",
+        "html_tag": "h2",
+        "name": "2025 Chevrolet Equinox AWD ACTIV",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "890470",
+        "html_tag": "span",
+        "name": "$34,469",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "890480",
+        "html_tag": "span",
+        "name": "Est. $648/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "890490",
+        "html_tag": "strong",
+        "name": "Advantage Chevrolet",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "890612",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "890614",
+        "html_tag": "h2",
+        "name": "2024 Volkswagen Tiguan SE",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "890615",
+        "html_tag": "div",
+        "name": "22,989 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "890617",
+        "html_tag": "span",
+        "name": "$25,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "890625",
+        "html_tag": "span",
+        "name": "Est. $489/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "890648",
+        "html_tag": "strong",
+        "name": "CarMax Oak Lawn",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "890796",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "890798",
+        "html_tag": "h2",
+        "name": "2018 BMW X5 XDrive35i",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "890799",
+        "html_tag": "div",
+        "name": "44,700 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "890801",
+        "html_tag": "span",
+        "name": "$29,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "890809",
+        "html_tag": "span",
+        "name": "Est. $564/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "890832",
+        "html_tag": "strong",
+        "name": "CarMax Live Oak",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "890980",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "890982",
+        "html_tag": "h2",
+        "name": "2025 Acura Integra W/A-SPEC TECHNOLOGY PACKAGE",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "890984",
+        "html_tag": "span",
+        "name": "$39,175",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "890993",
+        "html_tag": "span",
+        "name": "Est. $736/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "891003",
+        "html_tag": "strong",
+        "name": "McGrath Acura of Morton Grove",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "891127",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "891129",
+        "html_tag": "h2",
+        "name": "2025 Chevrolet Equinox 1LT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "891131",
+        "html_tag": "span",
+        "name": "$30,246",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "891140",
+        "html_tag": "span",
+        "name": "Est. $569/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "891150",
+        "html_tag": "strong",
+        "name": "Castle Chevrolet of Villa Park",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "891272",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "891274",
+        "html_tag": "h2",
+        "name": "2021 Audi Q7 55 Premium",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "891275",
+        "html_tag": "div",
+        "name": "57,867 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "891277",
+        "html_tag": "span",
+        "name": "$31,995",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "891286",
+        "html_tag": "span",
+        "name": "Est. $601/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "891309",
+        "html_tag": "strong",
+        "name": "Fields Lexus Glenview",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "891431",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "891433",
+        "html_tag": "h2",
+        "name": "2024 Cadillac XT4 Sport",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "891434",
+        "html_tag": "div",
+        "name": "22,669 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "891436",
+        "html_tag": "span",
+        "name": "$39,775",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "891444",
+        "html_tag": "span",
+        "name": "Est. $748/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "891467",
+        "html_tag": "strong",
+        "name": "Bill Kay Buick GMC",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "891750",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "891752",
+        "html_tag": "h2",
+        "name": "2025 Chevrolet Equinox 1LT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "891754",
+        "html_tag": "span",
+        "name": "$25,791",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "891762",
+        "html_tag": "span",
+        "name": "Est. $485/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "891772",
+        "html_tag": "strong",
+        "name": "Chevrolet of Homewood",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "891894",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "891896",
+        "html_tag": "h2",
+        "name": "2023 BMW 760 760i xDrive",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "891897",
+        "html_tag": "div",
+        "name": "32,963 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "891899",
+        "html_tag": "span",
+        "name": "$78,299",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "891908",
+        "html_tag": "span",
+        "name": "Est. $1,472/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "891931",
+        "html_tag": "strong",
+        "name": "BMW of Orland Park",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "892053",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "892055",
+        "html_tag": "h2",
+        "name": "2022 Toyota Corolla SE",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "892056",
+        "html_tag": "div",
+        "name": "16,452 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "892058",
+        "html_tag": "span",
+        "name": "$22,202",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "892066",
+        "html_tag": "span",
+        "name": "Est. $417/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "892089",
+        "html_tag": "strong",
+        "name": "Zeigler Chevrolet",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "892211",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "892213",
+        "html_tag": "h2",
+        "name": "2025 Volkswagen Atlas Cross Sport 2.0T SEL Premium",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "892215",
+        "html_tag": "span",
+        "name": "$51,018",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "892225",
+        "html_tag": "span",
+        "name": "Est. $959/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "892235",
+        "html_tag": "strong",
+        "name": "City Volkswagen of Highland",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "892359",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "892361",
+        "html_tag": "h2",
+        "name": "2024 Ford Transit-150 T150",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "892363",
+        "html_tag": "span",
+        "name": "$46,853",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "892372",
+        "html_tag": "span",
+        "name": "Est. $881/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "892382",
+        "html_tag": "strong",
+        "name": "Hawk Ford of Carol Stream",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "892504",
+        "html_tag": "p",
+        "name": "Volkswagen Certified",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "892506",
+        "html_tag": "h2",
+        "name": "2023 Volkswagen Atlas Cross Sport 3.6L V6 SEL",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "892507",
+        "html_tag": "div",
+        "name": "22,569 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "892509",
+        "html_tag": "span",
+        "name": "$34,490",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "892518",
+        "html_tag": "span",
+        "name": "Est. $648/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "892547",
+        "html_tag": "strong",
+        "name": "City Volkswagen of Highland",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "892669",
+        "html_tag": "p",
+        "name": "Mercedes-Benz Certified",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "892671",
+        "html_tag": "h2",
+        "name": "2024 Mercedes-Benz GLB 250 4MATIC",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "892672",
+        "html_tag": "div",
+        "name": "5,650 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "892674",
+        "html_tag": "span",
+        "name": "$43,999",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "892682",
+        "html_tag": "span",
+        "name": "Est. $827/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "892711",
+        "html_tag": "strong",
+        "name": "Mercedes-Benz of Hoffman Estates",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "892833",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "892835",
+        "html_tag": "h2",
+        "name": "2025 Mercedes-Benz Sprinter 3500XD High Roof",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "892837",
+        "html_tag": "span",
+        "name": "$76,551",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "892846",
+        "html_tag": "span",
+        "name": "Est. $1,439/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "892856",
+        "html_tag": "strong",
+        "name": "Mercedes-Benz of Hoffman Estates",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "892978",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "892980",
+        "html_tag": "h2",
+        "name": "2025 Chevrolet Equinox ACTIV",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "892982",
+        "html_tag": "span",
+        "name": "$37,263",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "892991",
+        "html_tag": "span",
+        "name": "Est. $700/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "893001",
+        "html_tag": "strong",
+        "name": "Phillips Chevrolet",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "893123",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "893125",
+        "html_tag": "h2",
+        "name": "1999 Mercedes-Benz CLK-Class 320 Cabriolet",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "893126",
+        "html_tag": "div",
+        "name": "82,664 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "893128",
+        "html_tag": "span",
+        "name": "$4,950",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": null,
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "893138",
+        "html_tag": "strong",
+        "name": "The Reserve Collection",
+        "attributes": {}
+      }
+    }
+  ]
+}

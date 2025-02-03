@@ -1,0 +1,1186 @@
+{
+  "cars": [
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "526506",
+        "html_tag": "p",
+        "name": "Rolls-Royce Certified",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "526508",
+        "html_tag": "h2",
+        "name": "2022 Rolls-Royce Ghost Sedan",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "526509",
+        "html_tag": "div",
+        "name": "2,071 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "526511",
+        "html_tag": "span",
+        "name": "$288,900",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "526520",
+        "html_tag": "span",
+        "name": "Est. $5,430/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "526543",
+        "html_tag": "strong",
+        "name": "Bentley Bugatti Lamborghini Maserati Rolls-Royce of Chicago",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "526691",
+        "html_tag": "p",
+        "name": "Audi Certified",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "526693",
+        "html_tag": "h2",
+        "name": "2024 Audi SQ5 3.0T Premium Plus",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "526694",
+        "html_tag": "div",
+        "name": "5,466 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "526696",
+        "html_tag": "span",
+        "name": "$60,444",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "526704",
+        "html_tag": "span",
+        "name": "Est. $1,136/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "526733",
+        "html_tag": "strong",
+        "name": "Fletcher Jones Audi",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "526855",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "526857",
+        "html_tag": "h2",
+        "name": "2002 Lexus RX 300 Base",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "526858",
+        "html_tag": "div",
+        "name": "134,000 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "526860",
+        "html_tag": "span",
+        "name": "$5,500",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "526868",
+        "html_tag": "span",
+        "name": "Est. $103/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "526891",
+        "html_tag": "strong",
+        "name": "Patty",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "526979",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "526981",
+        "html_tag": "h2",
+        "name": "2023 Tesla Model 3",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "526982",
+        "html_tag": "div",
+        "name": "11,501 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "526984",
+        "html_tag": "span",
+        "name": "$31,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "526992",
+        "html_tag": "span",
+        "name": "Est. $601/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "527021",
+        "html_tag": "strong",
+        "name": "CarMax Oklahoma City",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "527172",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "527174",
+        "html_tag": "h2",
+        "name": "2020 Mercedes-Benz Sprinter 4500 High Roof V6",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "527175",
+        "html_tag": "div",
+        "name": "23,679 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "527177",
+        "html_tag": "span",
+        "name": "$65,985",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "527186",
+        "html_tag": "span",
+        "name": "Est. $1,240/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "527209",
+        "html_tag": "strong",
+        "name": "Chicago Cars US",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "527331",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "527333",
+        "html_tag": "h2",
+        "name": "2024 Chevrolet Blazer EV eAWD LT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "generic",
+        "tf623_id": "527334",
+        "html_tag": "div",
+        "name": "",
+        "attributes": {
+          "class": "price-section price-section-vehicle-card"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "527335",
+        "html_tag": "span",
+        "name": "$46,195",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "527344",
+        "html_tag": "span",
+        "name": "Est. $868/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "527354",
+        "html_tag": "strong",
+        "name": "Advantage Chevrolet of Bridgeview",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "527476",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "527478",
+        "html_tag": "h2",
+        "name": "2017 Toyota Sienna LE",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "527479",
+        "html_tag": "div",
+        "name": "101,498 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "527481",
+        "html_tag": "span",
+        "name": "$17,000",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "527489",
+        "html_tag": "span",
+        "name": "Est. $320/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "527505",
+        "html_tag": "strong",
+        "name": "Ed Napleton Honda",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "527627",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "527629",
+        "html_tag": "h2",
+        "name": "2019 Lincoln MKC Reserve",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "527630",
+        "html_tag": "div",
+        "name": "60,728 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "527632",
+        "html_tag": "span",
+        "name": "$18,472",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "527641",
+        "html_tag": "span",
+        "name": "Est. $347/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "527664",
+        "html_tag": "strong",
+        "name": "Old Orchard Nissan",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "527788",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "527790",
+        "html_tag": "h2",
+        "name": "2024 Ford Transit-150 T-150 148",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "generic",
+        "tf623_id": "527791",
+        "html_tag": "div",
+        "name": "",
+        "attributes": {
+          "class": "price-section price-section-vehicle-card"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "527792",
+        "html_tag": "span",
+        "name": "$51,000",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "527801",
+        "html_tag": "span",
+        "name": "Est. $959/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "527811",
+        "html_tag": "strong",
+        "name": "Golf Mill Ford",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "527933",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "527935",
+        "html_tag": "h2",
+        "name": "2022 Mazda Mazda3 Select",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "527936",
+        "html_tag": "div",
+        "name": "17,662 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "527938",
+        "html_tag": "span",
+        "name": "$22,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "527946",
+        "html_tag": "span",
+        "name": "Est. $432/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "527969",
+        "html_tag": "strong",
+        "name": "CarMax Germantown",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "528117",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "528119",
+        "html_tag": "h2",
+        "name": "2019 Chevrolet Equinox LS",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "528120",
+        "html_tag": "div",
+        "name": "75,685 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "528122",
+        "html_tag": "span",
+        "name": "$14,049",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "528130",
+        "html_tag": "span",
+        "name": "Est. $264/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "528153",
+        "html_tag": "strong",
+        "name": "AutoNation Hyundai O'Hare",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "528275",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "528277",
+        "html_tag": "h2",
+        "name": "2024 RAM ProMaster 2500 High Roof",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "generic",
+        "tf623_id": "528278",
+        "html_tag": "div",
+        "name": "",
+        "attributes": {
+          "class": "price-section price-section-vehicle-card"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "528279",
+        "html_tag": "span",
+        "name": "$42,887",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "528289",
+        "html_tag": "span",
+        "name": "Est. $806/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "528299",
+        "html_tag": "strong",
+        "name": "Larry Roesch Dodge Chrysler Jeep RAM",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "528423",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "528425",
+        "html_tag": "h2",
+        "name": "2004 Hummer H2 Base",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "528426",
+        "html_tag": "div",
+        "name": "42,166 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "528428",
+        "html_tag": "span",
+        "name": "$28,754",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "528436",
+        "html_tag": "span",
+        "name": "Est. $540/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "528459",
+        "html_tag": "strong",
+        "name": "MGM Classic Cars",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "528581",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "528583",
+        "html_tag": "h2",
+        "name": "2023 Volkswagen Arteon 2.0T SEL Premium R-Line 4MOTION",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "528584",
+        "html_tag": "div",
+        "name": "7,567 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "528586",
+        "html_tag": "span",
+        "name": "$38,829",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "528595",
+        "html_tag": "span",
+        "name": "Est. $730/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "528618",
+        "html_tag": "strong",
+        "name": "Perillo Downers Grove",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "528740",
+        "html_tag": "p",
+        "name": "Volkswagen Certified",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "528742",
+        "html_tag": "h2",
+        "name": "2023 Volkswagen Arteon 2.0T SEL R-Line",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "528743",
+        "html_tag": "div",
+        "name": "9,421 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "528745",
+        "html_tag": "span",
+        "name": "$32,489",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "528754",
+        "html_tag": "span",
+        "name": "Est. $611/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "528783",
+        "html_tag": "strong",
+        "name": "Volkswagen of Orland Park",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "528868",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "528870",
+        "html_tag": "h2",
+        "name": "2025 Lexus RX 450h+ Luxury",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "generic",
+        "tf623_id": "528871",
+        "html_tag": "div",
+        "name": "",
+        "attributes": {
+          "class": "price-section price-section-vehicle-card"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "528872",
+        "html_tag": "span",
+        "name": "$77,729",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "528881",
+        "html_tag": "span",
+        "name": "Est. $1,461/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "528891",
+        "html_tag": "strong",
+        "name": "Lexus Of Orland",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "529015",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "529017",
+        "html_tag": "h2",
+        "name": "2023 Alfa Romeo Stelvio Ti",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "529018",
+        "html_tag": "div",
+        "name": "10,330 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "529020",
+        "html_tag": "span",
+        "name": "$35,990",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "529028",
+        "html_tag": "span",
+        "name": "Est. $676/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "529051",
+        "html_tag": "strong",
+        "name": "Joe Rizza Ford Lincoln",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "529173",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "529175",
+        "html_tag": "h2",
+        "name": "2025 Nissan Rogue SV",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "generic",
+        "tf623_id": "529176",
+        "html_tag": "div",
+        "name": "",
+        "attributes": {
+          "class": "price-section price-section-vehicle-card"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "529177",
+        "html_tag": "span",
+        "name": "$35,303",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "529186",
+        "html_tag": "span",
+        "name": "Est. $664/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "529203",
+        "html_tag": "strong",
+        "name": "Woodfield Nissan",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "529325",
+        "html_tag": "p",
+        "name": "Mercedes-Benz Certified",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "529327",
+        "html_tag": "h2",
+        "name": "2025 Mercedes-Benz AMG CLA 35 4MATIC",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "529328",
+        "html_tag": "div",
+        "name": "5,213 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "529330",
+        "html_tag": "span",
+        "name": "$57,860",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "529338",
+        "html_tag": "span",
+        "name": "Est. $1,088/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "529367",
+        "html_tag": "strong",
+        "name": "Mercedes-Benz of Hoffman Estates",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "529489",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "529491",
+        "html_tag": "h2",
+        "name": "2025 Mercedes-Benz Sprinter 2500 High Roof",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "generic",
+        "tf623_id": "529492",
+        "html_tag": "div",
+        "name": "",
+        "attributes": {
+          "class": "price-section price-section-vehicle-card"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "529493",
+        "html_tag": "span",
+        "name": "$66,551",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "529502",
+        "html_tag": "span",
+        "name": "Est. $1,251/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "529512",
+        "html_tag": "strong",
+        "name": "Mercedes-Benz of Hoffman Estates",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "529634",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "529636",
+        "html_tag": "h2",
+        "name": "1972 Chevrolet C10/K10 Base",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "529637",
+        "html_tag": "div",
+        "name": "980 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "529639",
+        "html_tag": "span",
+        "name": "$35,991",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "529648",
+        "html_tag": "span",
+        "name": "Est. $677/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "529664",
+        "html_tag": "strong",
+        "name": "Silver Auto Sales Inc.",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "529786",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "529788",
+        "html_tag": "h2",
+        "name": "2021 FIAT 500X Sport AWD",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "529789",
+        "html_tag": "div",
+        "name": "27,173 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "529791",
+        "html_tag": "span",
+        "name": "$21,477",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "529799",
+        "html_tag": "span",
+        "name": "Est. $404/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "529822",
+        "html_tag": "strong",
+        "name": "Castle Chrysler Dodge Jeep Ram of Naperville",
+        "attributes": {}
+      }
+    }
+  ]
+}

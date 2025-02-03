@@ -1,0 +1,1119 @@
+{
+  "cars": [
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1005357",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1005359",
+        "html_tag": "h2",
+        "name": "2019 Porsche Cayenne Base",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "1005360",
+        "html_tag": "div",
+        "name": "18,332 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "1005362",
+        "html_tag": "span",
+        "name": "$48,900",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1005370",
+        "html_tag": "span",
+        "name": "Est. $919/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1005399",
+        "html_tag": "strong",
+        "name": "Bentley Bugatti Lamborghini Maserati Rolls-Royce of Chicago",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1005547",
+        "html_tag": "p",
+        "name": "BMW Certified",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1005549",
+        "html_tag": "h2",
+        "name": "2022 BMW 530 i xDrive",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "1005550",
+        "html_tag": "div",
+        "name": "20,346 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "1005552",
+        "html_tag": "span",
+        "name": "$40,888",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1005560",
+        "html_tag": "span",
+        "name": "Est. $769/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1005589",
+        "html_tag": "strong",
+        "name": "Perillo BMW",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1005711",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1005713",
+        "html_tag": "h2",
+        "name": "2025 Volkswagen Atlas Cross Sport 2.0T SEL Premium",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "1005715",
+        "html_tag": "span",
+        "name": "$51,018",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1005725",
+        "html_tag": "span",
+        "name": "Est. $959/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1005735",
+        "html_tag": "strong",
+        "name": "City Volkswagen of Chicago",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1005857",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1005859",
+        "html_tag": "h2",
+        "name": "2022 Nissan Sentra SV",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "1005860",
+        "html_tag": "div",
+        "name": "15,232 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "1005862",
+        "html_tag": "span",
+        "name": "$19,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1005870",
+        "html_tag": "span",
+        "name": "Est. $376/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1005893",
+        "html_tag": "strong",
+        "name": "CarMax Huntsville",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1006044",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1006046",
+        "html_tag": "h2",
+        "name": "2023 Nissan Armada Platinum",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "1006047",
+        "html_tag": "div",
+        "name": "10,577 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "1006049",
+        "html_tag": "span",
+        "name": "$49,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1006057",
+        "html_tag": "span",
+        "name": "Est. $940/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1006080",
+        "html_tag": "strong",
+        "name": "CarMax Danvers",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1006228",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1006230",
+        "html_tag": "h2",
+        "name": "2023 Ford F-150 XL",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "1006231",
+        "html_tag": "div",
+        "name": "2,675 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "1006233",
+        "html_tag": "span",
+        "name": "$48,995",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1006242",
+        "html_tag": "span",
+        "name": "Est. $921/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1006265",
+        "html_tag": "strong",
+        "name": "Westfield Ford",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1006387",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1006389",
+        "html_tag": "h2",
+        "name": "2024 Land Rover Defender 110 P400 X",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "1006391",
+        "html_tag": "span",
+        "name": "$96,428",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1006400",
+        "html_tag": "span",
+        "name": "Est. $1,813/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1006410",
+        "html_tag": "strong",
+        "name": "Jaguar Land Rover Hinsdale",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1006532",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1006534",
+        "html_tag": "h2",
+        "name": "2024 Ford Bronco Badlands",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "1006536",
+        "html_tag": "span",
+        "name": "$58,999",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1006545",
+        "html_tag": "span",
+        "name": "Est. $1,109/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1006555",
+        "html_tag": "strong",
+        "name": "Bredemann Ford",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1006679",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1006681",
+        "html_tag": "h2",
+        "name": "2023 Ford Explorer XLT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "1006682",
+        "html_tag": "div",
+        "name": "46,585 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "1006684",
+        "html_tag": "span",
+        "name": "$30,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1006693",
+        "html_tag": "span",
+        "name": "Est. $583/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1006716",
+        "html_tag": "strong",
+        "name": "CarMax Glencoe (Edens Expy)",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1006864",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1006866",
+        "html_tag": "h2",
+        "name": "2014 Honda Odyssey EX-L",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "1006867",
+        "html_tag": "div",
+        "name": "137,443 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "1006869",
+        "html_tag": "span",
+        "name": "$10,950",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1006878",
+        "html_tag": "span",
+        "name": "Est. $206/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1006901",
+        "html_tag": "strong",
+        "name": "Revved Motors",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1007023",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1007025",
+        "html_tag": "h2",
+        "name": "2020 Jaguar F-PACE R-Sport P250 AWD Automatic",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "1007026",
+        "html_tag": "div",
+        "name": "67,663 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "1007028",
+        "html_tag": "span",
+        "name": "$25,980",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1007037",
+        "html_tag": "span",
+        "name": "Est. $488/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1007060",
+        "html_tag": "strong",
+        "name": "Star Auto Works",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1007182",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1007184",
+        "html_tag": "h2",
+        "name": "2023 Acura TLX A-Spec",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "1007185",
+        "html_tag": "div",
+        "name": "32,997 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "1007187",
+        "html_tag": "span",
+        "name": "$35,990",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1007195",
+        "html_tag": "span",
+        "name": "Est. $676/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1007218",
+        "html_tag": "strong",
+        "name": "Joe Rizza Acura",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1007305",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1007307",
+        "html_tag": "h2",
+        "name": "2025 Chevrolet Equinox 1LT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "1007309",
+        "html_tag": "span",
+        "name": "$27,395",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1007317",
+        "html_tag": "span",
+        "name": "Est. $515/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1007327",
+        "html_tag": "strong",
+        "name": "Chevrolet of Homewood",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1007449",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1007451",
+        "html_tag": "h2",
+        "name": "2025 Hyundai Tucson SE",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "1007453",
+        "html_tag": "span",
+        "name": "$30,337",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1007461",
+        "html_tag": "span",
+        "name": "Est. $570/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1007471",
+        "html_tag": "strong",
+        "name": "Webb Hyundai Highland",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1007593",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1007595",
+        "html_tag": "h2",
+        "name": "2025 Chevrolet Equinox 1LT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "generic",
+        "tf623_id": "1007596",
+        "html_tag": "div",
+        "name": "",
+        "attributes": {
+          "class": "price-section price-section-vehicle-card"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "1007597",
+        "html_tag": "span",
+        "name": "$27,480",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1007606",
+        "html_tag": "span",
+        "name": "Est. $517/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1007616",
+        "html_tag": "strong",
+        "name": "Garber Chevrolet Highland",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1007738",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1007740",
+        "html_tag": "h2",
+        "name": "2025 Chevrolet Equinox 1LT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "1007742",
+        "html_tag": "span",
+        "name": "$28,475",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1007750",
+        "html_tag": "span",
+        "name": "Est. $535/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1007760",
+        "html_tag": "strong",
+        "name": "Garber Chevrolet Highland",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1007847",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1007849",
+        "html_tag": "h2",
+        "name": "2024 Volkswagen Atlas Cross Sport 2.0T SEL",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "1007851",
+        "html_tag": "span",
+        "name": "$45,196",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1007861",
+        "html_tag": "span",
+        "name": "Est. $850/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1007878",
+        "html_tag": "strong",
+        "name": "City Volkswagen of Highland",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1008000",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1008002",
+        "html_tag": "h2",
+        "name": "2016 Ford Focus S",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "1008003",
+        "html_tag": "div",
+        "name": "76,621 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "1008005",
+        "html_tag": "span",
+        "name": "$12,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1008013",
+        "html_tag": "span",
+        "name": "Est. $244/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1008029",
+        "html_tag": "strong",
+        "name": "CarMax Schaumburg",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1008151",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1008153",
+        "html_tag": "h2",
+        "name": "2023 Chevrolet Equinox Premier w/1LZ",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "1008154",
+        "html_tag": "div",
+        "name": "12,496 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "1008156",
+        "html_tag": "span",
+        "name": "$26,472",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1008164",
+        "html_tag": "span",
+        "name": "Est. $498/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1008187",
+        "html_tag": "strong",
+        "name": "Advantage Chevrolet of Bolingbrook",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1008309",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1008311",
+        "html_tag": "h2",
+        "name": "2021 Land Rover Range Rover Evoque SE",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "1008312",
+        "html_tag": "div",
+        "name": "35,044 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "1008314",
+        "html_tag": "span",
+        "name": "$29,300",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1008322",
+        "html_tag": "span",
+        "name": "Est. $551/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1008345",
+        "html_tag": "strong",
+        "name": "Land Rover Schaumburg",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1008467",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1008469",
+        "html_tag": "h2",
+        "name": "2020 Bentley Continental GT V8",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "1008470",
+        "html_tag": "div",
+        "name": "3,687 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "1008472",
+        "html_tag": "span",
+        "name": "$183,800",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1008480",
+        "html_tag": "span",
+        "name": "Est. $3,455/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1008503",
+        "html_tag": "strong",
+        "name": "Chicago Motor Cars",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "1008625",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "1008627",
+        "html_tag": "h2",
+        "name": "2025 Chevrolet Equinox LT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "1008629",
+        "html_tag": "span",
+        "name": "$27,643",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "1008638",
+        "html_tag": "span",
+        "name": "Est. $520/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "1008648",
+        "html_tag": "strong",
+        "name": "Phillips Chevrolet",
+        "attributes": {}
+      }
+    }
+  ]
+}

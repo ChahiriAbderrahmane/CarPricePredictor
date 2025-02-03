@@ -1,0 +1,985 @@
+{
+  "cars": [
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "213924",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "213926",
+        "html_tag": "h2",
+        "name": "2025 Subaru Forester Limited",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "213928",
+        "html_tag": "span",
+        "name": "$37,388",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "213934",
+        "html_tag": "span",
+        "name": "",
+        "attributes": {
+          "part": "label"
+        }
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "213954",
+        "html_tag": "strong",
+        "name": "Mcgrath Evanston Subaru",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "214076",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "214078",
+        "html_tag": "h2",
+        "name": "2024 Subaru Crosstrek Premium",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "214080",
+        "html_tag": "span",
+        "name": "$28,682",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "214086",
+        "html_tag": "span",
+        "name": "",
+        "attributes": {
+          "part": "label"
+        }
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "214099",
+        "html_tag": "strong",
+        "name": "Mcgrath Evanston Subaru",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "214221",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "214223",
+        "html_tag": "h2",
+        "name": "2025 Chevrolet Equinox AWD ACTIV",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "214225",
+        "html_tag": "span",
+        "name": "$36,338",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "214231",
+        "html_tag": "span",
+        "name": "",
+        "attributes": {
+          "part": "label"
+        }
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "214244",
+        "html_tag": "strong",
+        "name": "Advantage Chevrolet of Bridgeview",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "214366",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "214368",
+        "html_tag": "h2",
+        "name": "2019 Kia Soul",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "214369",
+        "html_tag": "div",
+        "name": "55,529 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "214371",
+        "html_tag": "span",
+        "name": "$14,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "214377",
+        "html_tag": "span",
+        "name": "",
+        "attributes": {
+          "part": "label"
+        }
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "214403",
+        "html_tag": "strong",
+        "name": "CarMax Gainesville Georgia",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "214501",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "214503",
+        "html_tag": "h2",
+        "name": "2021 MINI SE Hardtop SE",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "214504",
+        "html_tag": "div",
+        "name": "20,330 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "214506",
+        "html_tag": "span",
+        "name": "$22,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "214511",
+        "html_tag": "span",
+        "name": "",
+        "attributes": {
+          "part": "label"
+        }
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "214537",
+        "html_tag": "strong",
+        "name": "CarMax Beaverton",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "214659",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "214661",
+        "html_tag": "h2",
+        "name": "2025 Subaru Outback Premium",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "214663",
+        "html_tag": "span",
+        "name": "$34,876",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "214669",
+        "html_tag": "span",
+        "name": "",
+        "attributes": {
+          "part": "label"
+        }
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "214689",
+        "html_tag": "strong",
+        "name": "The Autobarn Countryside Subaru",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "214774",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "214776",
+        "html_tag": "h2",
+        "name": "2025 Toyota Corolla Cross Hybrid XSE",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "214778",
+        "html_tag": "span",
+        "name": "$34,479",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "214784",
+        "html_tag": "span",
+        "name": "",
+        "attributes": {
+          "part": "label"
+        }
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "214804",
+        "html_tag": "strong",
+        "name": "Bredemann Toyota/Scion",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "214926",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "214928",
+        "html_tag": "h2",
+        "name": "2018 Toyota Land Cruiser Base",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "214929",
+        "html_tag": "div",
+        "name": "69,619 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "214931",
+        "html_tag": "span",
+        "name": "$59,997",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "214937",
+        "html_tag": "span",
+        "name": "",
+        "attributes": {
+          "part": "label"
+        }
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "214963",
+        "html_tag": "strong",
+        "name": "Jaguar Land Rover Hinsdale",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "215087",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "215089",
+        "html_tag": "h2",
+        "name": "2023 Chevrolet Tahoe RST",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "215090",
+        "html_tag": "div",
+        "name": "13,837 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "215092",
+        "html_tag": "span",
+        "name": "$65,000",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "215098",
+        "html_tag": "span",
+        "name": "",
+        "attributes": {
+          "part": "label"
+        }
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "215124",
+        "html_tag": "strong",
+        "name": "Napleton Aston Martin Maserati",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "215246",
+        "html_tag": "p",
+        "name": "Mercedes-Benz Certified",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "215248",
+        "html_tag": "h2",
+        "name": "2025 Mercedes-Benz GLC 300 Base 4MATIC",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "215249",
+        "html_tag": "div",
+        "name": "1,329 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "215251",
+        "html_tag": "span",
+        "name": "$54,805",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "215259",
+        "html_tag": "span",
+        "name": "Est. $1,030/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "215288",
+        "html_tag": "strong",
+        "name": "Autohaus on Edens",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "215410",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "215412",
+        "html_tag": "h2",
+        "name": "2024 Lincoln Aviator Black Label AWD",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "215414",
+        "html_tag": "span",
+        "name": "$88,780",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "215423",
+        "html_tag": "span",
+        "name": "Est. $1,669/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "215433",
+        "html_tag": "strong",
+        "name": "Napleton Autowerks River Oaks",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "215555",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "215557",
+        "html_tag": "h2",
+        "name": "2025 Nissan Kicks SV",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "215559",
+        "html_tag": "span",
+        "name": "$28,222",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "215567",
+        "html_tag": "span",
+        "name": "Est. $530/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "215577",
+        "html_tag": "strong",
+        "name": "94 Nissan Of South Holland",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "215701",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "215703",
+        "html_tag": "h2",
+        "name": "2025 Volkswagen Atlas 2.0T SE w/Technology 4MOTION",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "215705",
+        "html_tag": "span",
+        "name": "$44,814",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "215715",
+        "html_tag": "span",
+        "name": "Est. $842/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "215725",
+        "html_tag": "strong",
+        "name": "Volkswagen of Palatine",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "215873",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "215875",
+        "html_tag": "h2",
+        "name": "2024 Mazda Mazda3 AWD w/Premium Package",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "215877",
+        "html_tag": "span",
+        "name": "$36,888",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "215886",
+        "html_tag": "span",
+        "name": "Est. $693/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "215896",
+        "html_tag": "strong",
+        "name": "Castle Mazda Downers Grove",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "216018",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "216020",
+        "html_tag": "h2",
+        "name": "2024 GMC Sierra 3500 SLE",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "216021",
+        "html_tag": "div",
+        "name": "2,847 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "216023",
+        "html_tag": "span",
+        "name": "$62,605",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "216031",
+        "html_tag": "span",
+        "name": "Est. $1,177/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "216054",
+        "html_tag": "strong",
+        "name": "Chevrolet of Homewood",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "216176",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "216178",
+        "html_tag": "h2",
+        "name": "2025 Audi Q5 45 S line Premium",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "216180",
+        "html_tag": "span",
+        "name": "$54,000",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "216189",
+        "html_tag": "span",
+        "name": "Est. $1,015/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "216199",
+        "html_tag": "strong",
+        "name": "The Audi Exchange",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "216323",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "216325",
+        "html_tag": "h2",
+        "name": "2024 Ford Bronco Wildtrak",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "216327",
+        "html_tag": "span",
+        "name": "$56,291",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "216335",
+        "html_tag": "span",
+        "name": "Est. $1,058/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "216345",
+        "html_tag": "strong",
+        "name": "Schaumburg Ford",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "216467",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "216469",
+        "html_tag": "h2",
+        "name": "2024 Chrysler Pacifica Limited",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "216471",
+        "html_tag": "span",
+        "name": "$43,812",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "216480",
+        "html_tag": "span",
+        "name": "Est. $824/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "216490",
+        "html_tag": "strong",
+        "name": "South Oak Dodge Chrysler Jeep RAM",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "216612",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "216614",
+        "html_tag": "h2",
+        "name": "2021 Chevrolet Silverado 2500 LTZ",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "216615",
+        "html_tag": "div",
+        "name": "65,651 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "216617",
+        "html_tag": "span",
+        "name": "$47,839",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "216626",
+        "html_tag": "span",
+        "name": "Est. $899/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "216649",
+        "html_tag": "strong",
+        "name": "Maserati of Naperville",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "216771",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "216773",
+        "html_tag": "h2",
+        "name": "2025 Nissan Rogue SV",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": null,
+      "price": {
+        "role": "text",
+        "tf623_id": "216775",
+        "html_tag": "span",
+        "name": "$34,835",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "216784",
+        "html_tag": "span",
+        "name": "Est. $655/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "216794",
+        "html_tag": "strong",
+        "name": "Gerald Nissan of Naperville",
+        "attributes": {}
+      }
+    }
+  ]
+}

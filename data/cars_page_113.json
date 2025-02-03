@@ -1,0 +1,1183 @@
+{
+  "cars": [
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "682849",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "682851",
+        "html_tag": "h2",
+        "name": "2023 Acura MDX A-SPEC",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "682852",
+        "html_tag": "div",
+        "name": "21,739 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "682854",
+        "html_tag": "span",
+        "name": "$45,799",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "682862",
+        "html_tag": "span",
+        "name": "Est. $861/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "682885",
+        "html_tag": "strong",
+        "name": "McGrath Acura of Downtown Chicago",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "683007",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "683009",
+        "html_tag": "h2",
+        "name": "2020 Ford Escape SE",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "683010",
+        "html_tag": "div",
+        "name": "97,050 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "683012",
+        "html_tag": "span",
+        "name": "$13,949",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "683020",
+        "html_tag": "span",
+        "name": "Est. $262/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "683043",
+        "html_tag": "strong",
+        "name": "Midway Dodge",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "683165",
+        "html_tag": "p",
+        "name": "Honda Certified",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "683167",
+        "html_tag": "h2",
+        "name": "2024 Honda Ridgeline TrailSport",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "683168",
+        "html_tag": "div",
+        "name": "1,583 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "683170",
+        "html_tag": "span",
+        "name": "$39,497",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "683179",
+        "html_tag": "span",
+        "name": "Est. $742/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "683208",
+        "html_tag": "strong",
+        "name": "Honda City Chicago",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "683330",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "683332",
+        "html_tag": "h2",
+        "name": "2021 Volkswagen Tiguan SE R-Line Black",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "683333",
+        "html_tag": "div",
+        "name": "8,492 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "683335",
+        "html_tag": "span",
+        "name": "$26,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "683343",
+        "html_tag": "span",
+        "name": "Est. $507/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "683366",
+        "html_tag": "strong",
+        "name": "CarMax Columbus",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "683517",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "683519",
+        "html_tag": "h2",
+        "name": "2025 Chevrolet Equinox 1LT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "generic",
+        "tf623_id": "683520",
+        "html_tag": "div",
+        "name": "",
+        "attributes": {
+          "class": "price-section price-section-vehicle-card"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "683521",
+        "html_tag": "span",
+        "name": "$26,590",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "683531",
+        "html_tag": "span",
+        "name": "Est. $500/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "683541",
+        "html_tag": "strong",
+        "name": "Currie Motors Chevrolet",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "683663",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "683665",
+        "html_tag": "h2",
+        "name": "2024 Alfa Romeo Stelvio Base",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "683666",
+        "html_tag": "div",
+        "name": "15,057 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "683668",
+        "html_tag": "span",
+        "name": "$34,934",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "683677",
+        "html_tag": "span",
+        "name": "Est. $657/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "683700",
+        "html_tag": "strong",
+        "name": "Napleton's Countryside Mazda",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "683822",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "683824",
+        "html_tag": "h2",
+        "name": "2017 Honda Accord Hybrid",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "683825",
+        "html_tag": "div",
+        "name": "95,913 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "683827",
+        "html_tag": "span",
+        "name": "$17,998",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "683835",
+        "html_tag": "span",
+        "name": "Est. $338/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "683858",
+        "html_tag": "strong",
+        "name": "CarMax Albany",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "684006",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "684008",
+        "html_tag": "h2",
+        "name": "2024 RAM ProMaster 2500 High Roof",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "generic",
+        "tf623_id": "684009",
+        "html_tag": "div",
+        "name": "",
+        "attributes": {
+          "class": "price-section price-section-vehicle-card"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "684010",
+        "html_tag": "span",
+        "name": "$44,518",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "684020",
+        "html_tag": "span",
+        "name": "Est. $837/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "684030",
+        "html_tag": "strong",
+        "name": "Larry Roesch Dodge Chrysler Jeep RAM",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "684154",
+        "html_tag": "p",
+        "name": "INFINITI Certified",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "684156",
+        "html_tag": "h2",
+        "name": "2021 INFINITI QX50 Luxe",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "684157",
+        "html_tag": "div",
+        "name": "21,776 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "684159",
+        "html_tag": "span",
+        "name": "$28,415",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "684167",
+        "html_tag": "span",
+        "name": "Est. $534/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "684196",
+        "html_tag": "strong",
+        "name": "INFINITI of Clarendon Hills",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "684318",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "684320",
+        "html_tag": "h2",
+        "name": "2020 Chevrolet Colorado WT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "684321",
+        "html_tag": "div",
+        "name": "66,761 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "684323",
+        "html_tag": "span",
+        "name": "$16,250",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "684332",
+        "html_tag": "span",
+        "name": "Est. $305/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "684355",
+        "html_tag": "strong",
+        "name": "Gmotorcars Commercial Truck",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "684503",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "684505",
+        "html_tag": "h2",
+        "name": "2006 Jaguar XJ Super V8",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "684506",
+        "html_tag": "div",
+        "name": "140,111 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "684508",
+        "html_tag": "span",
+        "name": "$7,950",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "684516",
+        "html_tag": "span",
+        "name": "Est. $149/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "684539",
+        "html_tag": "strong",
+        "name": "Chicago Motor Credit",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "684661",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "684663",
+        "html_tag": "h2",
+        "name": "2021 Jaguar F-PACE S P250 AWD Automatic",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "684664",
+        "html_tag": "div",
+        "name": "71,096 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "684666",
+        "html_tag": "span",
+        "name": "$26,000",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "684675",
+        "html_tag": "span",
+        "name": "Est. $489/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "684704",
+        "html_tag": "strong",
+        "name": "Napleton's River Oaks Chrysler Jeep Dodge RAM",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "684828",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "684830",
+        "html_tag": "h2",
+        "name": "2025 Chevrolet Equinox 1LT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "generic",
+        "tf623_id": "684831",
+        "html_tag": "div",
+        "name": "",
+        "attributes": {
+          "class": "price-section price-section-vehicle-card"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "684832",
+        "html_tag": "span",
+        "name": "$33,675",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "684841",
+        "html_tag": "span",
+        "name": "Est. $633/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "684851",
+        "html_tag": "strong",
+        "name": "Bill Kay Chevrolet",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "684973",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "684975",
+        "html_tag": "h2",
+        "name": "2025 Chevrolet Equinox 1LT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "generic",
+        "tf623_id": "684976",
+        "html_tag": "div",
+        "name": "",
+        "attributes": {
+          "class": "price-section price-section-vehicle-card"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "684977",
+        "html_tag": "span",
+        "name": "$33,120",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "684986",
+        "html_tag": "span",
+        "name": "Est. $623/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "684996",
+        "html_tag": "strong",
+        "name": "Bill Kay Chevrolet",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "685118",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "685120",
+        "html_tag": "h2",
+        "name": "2025 Chevrolet Equinox 1LT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "generic",
+        "tf623_id": "685121",
+        "html_tag": "div",
+        "name": "",
+        "attributes": {
+          "class": "price-section price-section-vehicle-card"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "685122",
+        "html_tag": "span",
+        "name": "$31,980",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "685131",
+        "html_tag": "span",
+        "name": "Est. $601/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "685141",
+        "html_tag": "strong",
+        "name": "Bill Kay Chevrolet",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "685263",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "685265",
+        "html_tag": "h2",
+        "name": "2025 Chevrolet Equinox 1LT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "generic",
+        "tf623_id": "685266",
+        "html_tag": "div",
+        "name": "",
+        "attributes": {
+          "class": "price-section price-section-vehicle-card"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "685267",
+        "html_tag": "span",
+        "name": "$27,895",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "685277",
+        "html_tag": "span",
+        "name": "Est. $524/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "685287",
+        "html_tag": "strong",
+        "name": "Bill Kay Chevrolet",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "685411",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "685413",
+        "html_tag": "h2",
+        "name": "2025 Chevrolet Equinox 1LT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "generic",
+        "tf623_id": "685414",
+        "html_tag": "div",
+        "name": "",
+        "attributes": {
+          "class": "price-section price-section-vehicle-card"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "685415",
+        "html_tag": "span",
+        "name": "$32,180",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "685424",
+        "html_tag": "span",
+        "name": "Est. $605/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "685434",
+        "html_tag": "strong",
+        "name": "Bill Kay Chevrolet",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "685556",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "685558",
+        "html_tag": "h2",
+        "name": "2025 Chevrolet Equinox 1LT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "generic",
+        "tf623_id": "685559",
+        "html_tag": "div",
+        "name": "",
+        "attributes": {
+          "class": "price-section price-section-vehicle-card"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "685560",
+        "html_tag": "span",
+        "name": "$27,995",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "685570",
+        "html_tag": "span",
+        "name": "Est. $526/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "685580",
+        "html_tag": "strong",
+        "name": "Bill Kay Chevrolet",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "685702",
+        "html_tag": "p",
+        "name": "Used",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "685704",
+        "html_tag": "h2",
+        "name": "2018 Ford Transit-350 Base",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "685705",
+        "html_tag": "div",
+        "name": "169,099 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "685707",
+        "html_tag": "span",
+        "name": "$14,900",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "685716",
+        "html_tag": "span",
+        "name": "Est. $280/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "685739",
+        "html_tag": "strong",
+        "name": "Highland Park Truck & Auto Center",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "685887",
+        "html_tag": "p",
+        "name": "Ford Certified",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "685889",
+        "html_tag": "h2",
+        "name": "2021 Ford Explorer XLT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "685890",
+        "html_tag": "div",
+        "name": "62,053 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "685892",
+        "html_tag": "span",
+        "name": "$23,797",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "685901",
+        "html_tag": "span",
+        "name": "Est. $447/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "685930",
+        "html_tag": "strong",
+        "name": "Currie Motors Ford of Frankfort",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "686052",
+        "html_tag": "p",
+        "name": "New",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "686054",
+        "html_tag": "h2",
+        "name": "2025 Chevrolet Equinox LT",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "generic",
+        "tf623_id": "686055",
+        "html_tag": "div",
+        "name": "",
+        "attributes": {
+          "class": "price-section price-section-vehicle-card"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "686056",
+        "html_tag": "span",
+        "name": "$28,621",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "686065",
+        "html_tag": "span",
+        "name": "Est. $538/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "686075",
+        "html_tag": "strong",
+        "name": "Phillips Chevrolet",
+        "attributes": {}
+      }
+    },
+    {
+      "stocktype": {
+        "role": "text",
+        "tf623_id": "686197",
+        "html_tag": "p",
+        "name": "Audi Certified",
+        "attributes": {
+          "class": "stock-type"
+        }
+      },
+      "title": {
+        "role": "heading",
+        "tf623_id": "686199",
+        "html_tag": "h2",
+        "name": "2021 Audi A5 Sportback 45 S Line Premium Plus",
+        "attributes": {
+          "class": "title"
+        }
+      },
+      "mileage": {
+        "role": "text",
+        "tf623_id": "686200",
+        "html_tag": "div",
+        "name": "35,681 mi.",
+        "attributes": {
+          "data_qa": "mileage",
+          "class": "mileage"
+        }
+      },
+      "price": {
+        "role": "text",
+        "tf623_id": "686202",
+        "html_tag": "span",
+        "name": "$31,991",
+        "attributes": {
+          "data-qa": "primary-price",
+          "class": "primary-price"
+        }
+      },
+      "monthlypayment": {
+        "role": "text",
+        "tf623_id": "686211",
+        "html_tag": "span",
+        "name": "Est. $601/mo",
+        "attributes": {}
+      },
+      "vehicledealer": {
+        "role": "text",
+        "tf623_id": "686240",
+        "html_tag": "strong",
+        "name": "Audi Naperville",
+        "attributes": {}
+      }
+    }
+  ]
+}

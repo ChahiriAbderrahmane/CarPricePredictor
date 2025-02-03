@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_431efd81d93a1b56d8e64bcaa52a6a6b {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_431efd81d93a1b56d8e64bcaa52a6a6b" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_431efd81d93a1b56d8e64bcaa52a6a6b = L.map(
+                "map_431efd81d93a1b56d8e64bcaa52a6a6b",
+                {
+                    center: [41.85, -87.65],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 8,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_bf545cca329bb877fafa3517b5e639b1 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_bf545cca329bb877fafa3517b5e639b1.addTo(map_431efd81d93a1b56d8e64bcaa52a6a6b);
+        
+    
+            var marker_c2fe162318fbc9187b2ddf6657a2d468 = L.marker(
+                [42.051183300000005, -87.83387903096333],
+                {
+}
+            ).addTo(map_431efd81d93a1b56d8e64bcaa52a6a6b);
+        
+    
+            var icon_fd2eeb1cb9739159a6295392fc9901d3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "car",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_c2fe162318fbc9187b2ddf6657a2d468.setIcon(icon_fd2eeb1cb9739159a6295392fc9901d3);
+        
+    
+        var popup_f98fff97bfc7510a99babd1f1b9a748e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2ea8f68cf8e5221f09a6a95bfbe53bd7 = $(`<div id="html_2ea8f68cf8e5221f09a6a95bfbe53bd7" style="width: 100.0%; height: 100.0%;"><b>Golf Mill Ford</b></div>`)[0];
+                popup_f98fff97bfc7510a99babd1f1b9a748e.setContent(html_2ea8f68cf8e5221f09a6a95bfbe53bd7);
+            
+        
+
+        marker_c2fe162318fbc9187b2ddf6657a2d468.bindPopup(popup_f98fff97bfc7510a99babd1f1b9a748e)
+        ;
+
+        
+    
+    
+            marker_c2fe162318fbc9187b2ddf6657a2d468.bindTooltip(
+                `<div>
+                     Golf Mill Ford
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_0709f9831317da955acc8ef55a80c899 = L.marker(
+                [42.048919049999995, -88.1049154048065],
+                {
+}
+            ).addTo(map_431efd81d93a1b56d8e64bcaa52a6a6b);
+        
+    
+            var icon_d3512f66d3c7d7a33c932e9941e23b2e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "car",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_0709f9831317da955acc8ef55a80c899.setIcon(icon_d3512f66d3c7d7a33c932e9941e23b2e);
+        
+    
+        var popup_8af2b7a953a303528bd54d07513321c4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_87a74b0cba50d99d052a9276abeefa87 = $(`<div id="html_87a74b0cba50d99d052a9276abeefa87" style="width: 100.0%; height: 100.0%;"><b>Mercedes-Benz of Hoffman Estates</b></div>`)[0];
+                popup_8af2b7a953a303528bd54d07513321c4.setContent(html_87a74b0cba50d99d052a9276abeefa87);
+            
+        
+
+        marker_0709f9831317da955acc8ef55a80c899.bindPopup(popup_8af2b7a953a303528bd54d07513321c4)
+        ;
+
+        
+    
+    
+            marker_0709f9831317da955acc8ef55a80c899.bindTooltip(
+                `<div>
+                     Mercedes-Benz of Hoffman Estates
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_83dde07ccf681414353a927595126177 = L.marker(
+                [42.139192, -87.822823],
+                {
+}
+            ).addTo(map_431efd81d93a1b56d8e64bcaa52a6a6b);
+        
+    
+            var icon_084af6327d308aa53b734f2be564553b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "car",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_83dde07ccf681414353a927595126177.setIcon(icon_084af6327d308aa53b734f2be564553b);
+        
+    
+        var popup_7e0d96037141f74211bb9befa9c3f7ca = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3aa2ee36dd48b6e71df7c60268196388 = $(`<div id="html_3aa2ee36dd48b6e71df7c60268196388" style="width: 100.0%; height: 100.0%;"><b>The Audi Exchange</b></div>`)[0];
+                popup_7e0d96037141f74211bb9befa9c3f7ca.setContent(html_3aa2ee36dd48b6e71df7c60268196388);
+            
+        
+
+        marker_83dde07ccf681414353a927595126177.bindPopup(popup_7e0d96037141f74211bb9befa9c3f7ca)
+        ;
+
+        
+    
+    
+            marker_83dde07ccf681414353a927595126177.bindTooltip(
+                `<div>
+                     The Audi Exchange
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_d2cbdb9bafe6f2cfb697212534db48e2 = L.marker(
+                [41.801193, -87.877048],
+                {
+}
+            ).addTo(map_431efd81d93a1b56d8e64bcaa52a6a6b);
+        
+    
+            var icon_076633c9183349670eb9f378a145c93e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "car",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_d2cbdb9bafe6f2cfb697212534db48e2.setIcon(icon_076633c9183349670eb9f378a145c93e);
+        
+    
+        var popup_1d6ccc489df4c4dde7b75999a725f325 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a0bd0ffb54019e1c3d938ad44eed9e0b = $(`<div id="html_a0bd0ffb54019e1c3d938ad44eed9e0b" style="width: 100.0%; height: 100.0%;"><b>Ed Napleton Acura Kia</b></div>`)[0];
+                popup_1d6ccc489df4c4dde7b75999a725f325.setContent(html_a0bd0ffb54019e1c3d938ad44eed9e0b);
+            
+        
+
+        marker_d2cbdb9bafe6f2cfb697212534db48e2.bindPopup(popup_1d6ccc489df4c4dde7b75999a725f325)
+        ;
+
+        
+    
+    
+            marker_d2cbdb9bafe6f2cfb697212534db48e2.bindTooltip(
+                `<div>
+                     Ed Napleton Acura Kia
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_aefe504ec8a928d543e0421d7385bbdc = L.marker(
+                [41.5729774, -87.55983614182739],
+                {
+}
+            ).addTo(map_431efd81d93a1b56d8e64bcaa52a6a6b);
+        
+    
+            var icon_ccf52ec3d320c4cafff2e2c350993779 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "car",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_aefe504ec8a928d543e0421d7385bbdc.setIcon(icon_ccf52ec3d320c4cafff2e2c350993779);
+        
+    
+        var popup_6c0dbc79227303fbd08b357ed37b0c8c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fe8e9a901c872a2715ca8fffca6ad397 = $(`<div id="html_fe8e9a901c872a2715ca8fffca6ad397" style="width: 100.0%; height: 100.0%;"><b>Phillips Chevrolet</b></div>`)[0];
+                popup_6c0dbc79227303fbd08b357ed37b0c8c.setContent(html_fe8e9a901c872a2715ca8fffca6ad397);
+            
+        
+
+        marker_aefe504ec8a928d543e0421d7385bbdc.bindPopup(popup_6c0dbc79227303fbd08b357ed37b0c8c)
+        ;
+
+        
+    
+    
+            marker_aefe504ec8a928d543e0421d7385bbdc.bindTooltip(
+                `<div>
+                     Phillips Chevrolet
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_0261163cdb0383e47df3adcb1fbb16d4 = L.marker(
+                [41.558153, -87.800293],
+                {
+}
+            ).addTo(map_431efd81d93a1b56d8e64bcaa52a6a6b);
+        
+    
+            var icon_fcefc00356be99564440260e78023644 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "car",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_0261163cdb0383e47df3adcb1fbb16d4.setIcon(icon_fcefc00356be99564440260e78023644);
+        
+    
+        var popup_5104752e0a52ca1b1423395aa448148d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2de928c021f980f697d4837cb348b3c2 = $(`<div id="html_2de928c021f980f697d4837cb348b3c2" style="width: 100.0%; height: 100.0%;"><b>Joe Rizza Ford Lincoln</b></div>`)[0];
+                popup_5104752e0a52ca1b1423395aa448148d.setContent(html_2de928c021f980f697d4837cb348b3c2);
+            
+        
+
+        marker_0261163cdb0383e47df3adcb1fbb16d4.bindPopup(popup_5104752e0a52ca1b1423395aa448148d)
+        ;
+
+        
+    
+    
+            marker_0261163cdb0383e47df3adcb1fbb16d4.bindTooltip(
+                `<div>
+                     Joe Rizza Ford Lincoln
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_7b2ad357ea0e4fb31053f719688eed57 = L.marker(
+                [34.13706500000001, -118.25537322456444],
+                {
+}
+            ).addTo(map_431efd81d93a1b56d8e64bcaa52a6a6b);
+        
+    
+            var icon_37066870adab198ebcf6a7dc147209d1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "car",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_7b2ad357ea0e4fb31053f719688eed57.setIcon(icon_37066870adab198ebcf6a7dc147209d1);
+        
+    
+        var popup_c0c2daadfe3c8cbd444e26a6ccb744e9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_797794be76b23881f1a9c2ae3eaa4fc4 = $(`<div id="html_797794be76b23881f1a9c2ae3eaa4fc4" style="width: 100.0%; height: 100.0%;"><b>Glendale Nissan</b></div>`)[0];
+                popup_c0c2daadfe3c8cbd444e26a6ccb744e9.setContent(html_797794be76b23881f1a9c2ae3eaa4fc4);
+            
+        
+
+        marker_7b2ad357ea0e4fb31053f719688eed57.bindPopup(popup_c0c2daadfe3c8cbd444e26a6ccb744e9)
+        ;
+
+        
+    
+    
+            marker_7b2ad357ea0e4fb31053f719688eed57.bindTooltip(
+                `<div>
+                     Glendale Nissan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_20f4a341ec2d0503124105a2215e3ce8 = L.marker(
+                [42.0503035, -88.09784249305503],
+                {
+}
+            ).addTo(map_431efd81d93a1b56d8e64bcaa52a6a6b);
+        
+    
+            var icon_c150a2f639b2b8a65a291696925f8839 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "car",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_20f4a341ec2d0503124105a2215e3ce8.setIcon(icon_c150a2f639b2b8a65a291696925f8839);
+        
+    
+        var popup_4670bd7947a0864166dd19fb97eeb146 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b49bfa2eb96635e362e5d0c571c10ede = $(`<div id="html_b49bfa2eb96635e362e5d0c571c10ede" style="width: 100.0%; height: 100.0%;"><b>Woodfield Nissan</b></div>`)[0];
+                popup_4670bd7947a0864166dd19fb97eeb146.setContent(html_b49bfa2eb96635e362e5d0c571c10ede);
+            
+        
+
+        marker_20f4a341ec2d0503124105a2215e3ce8.bindPopup(popup_4670bd7947a0864166dd19fb97eeb146)
+        ;
+
+        
+    
+    
+            marker_20f4a341ec2d0503124105a2215e3ce8.bindTooltip(
+                `<div>
+                     Woodfield Nissan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_0047876b710f2a0070e542bd37d75618 = L.marker(
+                [37.36776860997453, -86.07402365718755],
+                {
+}
+            ).addTo(map_431efd81d93a1b56d8e64bcaa52a6a6b);
+        
+    
+            var icon_14f143be9baae2d3c03a4846e47b37f4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "car",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_0047876b710f2a0070e542bd37d75618.setIcon(icon_14f143be9baae2d3c03a4846e47b37f4);
+        
+    
+        var popup_1acbe1e092b56c69266fb1819c4c2656 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_aa765b6fc46a89b3b250c3c769224dc5 = $(`<div id="html_aa765b6fc46a89b3b250c3c769224dc5" style="width: 100.0%; height: 100.0%;"><b>Webb Ford</b></div>`)[0];
+                popup_1acbe1e092b56c69266fb1819c4c2656.setContent(html_aa765b6fc46a89b3b250c3c769224dc5);
+            
+        
+
+        marker_0047876b710f2a0070e542bd37d75618.bindPopup(popup_1acbe1e092b56c69266fb1819c4c2656)
+        ;
+
+        
+    
+    
+            marker_0047876b710f2a0070e542bd37d75618.bindTooltip(
+                `<div>
+                     Webb Ford
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_09d07e7ae6a61f8a9cfcd26e888d5b7f = L.marker(
+                [41.8498, -88.0888],
+                {
+}
+            ).addTo(map_431efd81d93a1b56d8e64bcaa52a6a6b);
+        
+    
+            var icon_cd7172728dd80ee0c4ca5af40c5dff27 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "car",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_09d07e7ae6a61f8a9cfcd26e888d5b7f.setIcon(icon_cd7172728dd80ee0c4ca5af40c5dff27);
+        
+    
+        var popup_28423fad807090148ad857216e9ea656 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8f61f6c5e9aec68fda3f007d8147c118 = $(`<div id="html_8f61f6c5e9aec68fda3f007d8147c118" style="width: 100.0%; height: 100.0%;"><b>Packey Webb Ford</b></div>`)[0];
+                popup_28423fad807090148ad857216e9ea656.setContent(html_8f61f6c5e9aec68fda3f007d8147c118);
+            
+        
+
+        marker_09d07e7ae6a61f8a9cfcd26e888d5b7f.bindPopup(popup_28423fad807090148ad857216e9ea656)
+        ;
+
+        
+    
+    
+            marker_09d07e7ae6a61f8a9cfcd26e888d5b7f.bindTooltip(
+                `<div>
+                     Packey Webb Ford
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>
