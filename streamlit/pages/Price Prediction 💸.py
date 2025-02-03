@@ -14,7 +14,7 @@ st.set_page_config(page_title="Predict Price", page_icon='💸')
 # Helper functions
 @st.cache_data
 def load_data():
-    data = pd.read_csv('C:\\Users\\elect\\Desktop\\ds_cars_proj\\Transformed_data\\Cleaned_data.csv')
+    data = pd.read_csv('Transformed_data/Cleaned_data.csv')
     return data
 
 def load_model_and_predict(brand, new_data):
@@ -45,7 +45,7 @@ def load_model_and_predict(brand, new_data):
 data = load_data()
 
 # Define the path to the directory containing the saved models
-MODEL_DIR = "C:\\Users\\elect\\Desktop\\ds_cars_proj\\model\\brands"
+MODEL_DIR = "model/brands"
 
 # Code of the ML page
 def show_predict_page():
@@ -116,7 +116,7 @@ show_predict_page()
 
 with st.sidebar:
     st.title('🚗 Cars Exploration & Price Prediction | Analyzing Cars.com Listings')
-    st.logo("C:\\Users\\elect\\Desktop\\ds_cars_proj\\assets\\cars_com_Logo.jpg",size='large')
+    st.logo("assets/cars_com_Logo.jpg",size='large')
 
 # Hide Left Menu
 st.markdown("""<style>
