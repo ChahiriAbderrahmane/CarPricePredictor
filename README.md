@@ -92,7 +92,7 @@ The **price prediction model** is built using a **RandomForestRegressor**. Final
 
 ## 🧹 Data Cleaning, EDA and Model Building
 
-Please refer to the respective notebooks ([data cleaning](https://github.com/ChahiriAbderrahmane/CarPricePredictor/blob/main/notebooks/Cleaning.ipynb), [data eda](https://github.com/ChahiriAbderrahmane/CarPricePredictor/blob/main/notebooks/EDA.ipynb), [model buidling](https://github.com/ChahiriAbderrahmane/CarPricePredictor/blob/main/notebooks/Prediction_ML.ipynb)).
+Please refer to the respective notebooks ([data cleaning](https://github.com/ChahiriAbderrahmane/CarPricePredictor/blob/main/notebooks/Cleaning.ipynb), [data eda]((https://github.com/ChahiriAbderrahmane/CarPricePredictor/blob/main/notebooks/EDA.ipynb), [model buidling](https://github.com/ChahiriAbderrahmane/CarPricePredictor/blob/main/notebooks/Prediction_ML.ipynb)).
 
 <a name="installation"></a>
 
