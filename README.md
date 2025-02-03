@@ -89,7 +89,7 @@ The **price prediction model** is built using a **RandomForestRegressor**. Final
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 <a name="webscraping"></a>
-
+<a name="dataedamodel"></a>
 ## 🧹 Data Cleaning, EDA and Model Building
 
 Please refer to the respective notebooks ([data cleaning](https://github.com/ChahiriAbderrahmane/CarPricePredictor/blob/main/notebooks/Cleaning.ipynb), [data eda]((https://github.com/ChahiriAbderrahmane/CarPricePredictor/blob/main/notebooks/EDA.ipynb), [model buidling](https://github.com/ChahiriAbderrahmane/CarPricePredictor/blob/main/notebooks/Prediction_ML.ipynb)).
@@ -121,8 +121,7 @@ cd streamlit
 streamlit run streamlit/Cars_Exploration_Aanlysis_app.py
 ```
 
-<a name="refs"></a>
-
+<a name="contact"></a>
 ## 📨 Contact Me
 
 [LinkedIn](https://www.linkedin.com/in/abderrahmane-chahiri-151b26237/) •
