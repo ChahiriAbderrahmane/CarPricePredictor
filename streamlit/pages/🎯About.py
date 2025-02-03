@@ -52,10 +52,11 @@ st.markdown("""##### [🚗 Cars.com](https://www.cars.com/) | [📨 Contact me v
 
 with st.sidebar:
     st.title('🚗 Cars Exploration & Price Prediction | Analyzing Cars.com Listings')
-    st.image("C:\\Users\\elect\\Desktop\\ds_cars_proj\\assets\\cars_com_Logo.jpg", use_column_width=True)
+    st.logo("C:\\Users\\elect\\Desktop\\ds_cars_proj\\assets\\cars_com_Logo.jpg",size='large')
 
 # Hide Left Menu
 st.markdown("""<style>
 #MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
 </style>""", unsafe_allow_html=True)
+
