@@ -48,8 +48,7 @@ st.markdown("---")
 
 st.markdown("### 🔗 Links :")
 
-st.markdown("""##### [🚗 Cars.com](https://www.cars.com/) | [📘 Data on Kaggle](https://www.kaggle.com/datasets/chahiriiscoding/car-sales-data-from-cars-com) |  [😼 See full project on GitHub](https://github.com/ChahiriAbderrahmane/CarPricePredictor) 
-        |[📨 Contact me via LinkedIn](https://www.linkedin.com/in/abderrahmane-chahiri-151b26237/) """)
+st.markdown("""##### [🚗 Cars.com](https://www.cars.com/) | [📘 Data on Kaggle](https://www.kaggle.com/datasets/chahiriiscoding/car-sales-data-from-cars-com) |  [😼 See full project on GitHub](https://github.com/ChahiriAbderrahmane/CarPricePredictor) |[📨 Contact me via LinkedIn](https://www.linkedin.com/in/abderrahmane-chahiri-151b26237/) """)
 
 with st.sidebar:
     st.title('🚗 Cars Exploration & Price Prediction | Analyzing Cars.com Listings')
