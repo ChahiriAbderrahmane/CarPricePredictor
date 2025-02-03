@@ -124,4 +124,5 @@ streamlit run streamlit/Cars_Exploration_Aanlysis_app.py
 ## 📨 Contact Me
 
 [LinkedIn](https://www.linkedin.com/in/abderrahmane-chahiri-151b26237/) •
-[Gmail](chahiri.abderrahmane.eng@gmail.com)
+[Gmail](mailto:chahiri.abderrahmane.eng@gmail.com)
+
