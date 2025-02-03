@@ -13,7 +13,7 @@ st.set_page_config(page_title="Cars Exploration & Price Prediction | Analyzing C
 # Helper functions
 @st.cache_data 
 def load_data():
-    data = pd.read_csv('C:\\Users\\elect\\Desktop\\ds_cars_proj\\Transformed_data\\Cleaned_data.csv')
+    data = pd.read_csv('C:/Users/elect/Desktop/ds_cars_proj/Transformed_data/Cleaned_data.csv')
     return data
 
 def avg_price_brand_condition(data):
