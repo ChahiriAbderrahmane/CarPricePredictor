@@ -309,13 +309,24 @@ with tab2:
 # Display insights with custom styling
     st.markdown(
     """
-    <div class="insights-box">
-        <div class="insights-title">🚀 Insights</div>
-        <div class="insights-text">
-            - The dataset contains numerous outliers in terms of price, mileage, and year, mainly due to the presence of very expensive cars and extremely old ones.<br>
-            - When analyzed by brand, <b>Chevrolet, Ford, Toyota, Audi, Mercedes-Benz,</b> and <b>GMC</b> have the highest number of outliers.
-        </div>
+<div class="insights-box">
+    <div class="insights-title">🚀 Key Insights</div>
+    <div class="insights-text">
+        Data Anomalies:
+        - Significant price variations driven by luxury and economy vehicles<br>
+        - Mileage extremes reflecting vehicle age and usage patterns<br>
+        - Year range includes both vintage and modern vehicles<br>
+        
+        Outlier Distribution by Brand:
+        - Top outlier brands suggest diverse market representation<br>
+        - When analyzed by brand, <b>Chevrolet, Ford, Toyota, Audi, Mercedes-Benz,</b> and <b>GMC</b> have the highest number of outliers.<br>
+        
+        Analysis Implications:
+        - Need for robust statistical techniques to handle extreme values<br>
+        - Importance of segmented analysis by vehicle's brand<br>
+        - Data cleaning and normalization strategies recommended
     </div>
+</div>
 
     <div class="insights-box">
         <div class="insights-title">📊 Market Overview</div>
@@ -342,7 +353,7 @@ with tab2:
     <div class="insights-box">
         <div class="insights-title">🏆 Dealer Market Influence</div>
         <div class="insights-text">
-            - The market is dominated by a few major dealers, with the top 4 (*Golf Mill Ford*, *Mercedes-Benz of Hoffman Estates*, *The Audi Exchange*, and *Ed Napleton Acura*) accounting for over <b>40%</b> of total sales among the top 10 dealers..<br>
+            - The market is dominated by a few major dealers, with the top 4 (*Golf Mill Ford*, *Mercedes-Benz of Hoffman Estates*, *The Audi Exchange*, and *Ed Napleton Acura*) accounting for over <b>40%</b> of total sales among the top 10 dealers.<br>
             - Interestingly, the <b>Top 10 Dealers</b> with the highest number of sales are <b>not</b> the same as the <b>Top 10 Dealers</b> with the highest average car prices—there is no overlap between these two groups.
         </div>
     </div>
