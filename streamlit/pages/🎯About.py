@@ -42,7 +42,7 @@ st.markdown("---")
 
 st.markdown("### 📝 Project Architecture :")
 
-st.image("assets/cars_ds_pworkflow.jpg")
+st.image("assets/cars_ds_pworkflow.png")
 
 st.markdown("---")
 
