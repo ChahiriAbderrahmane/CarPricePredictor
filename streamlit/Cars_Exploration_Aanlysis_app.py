@@ -328,38 +328,39 @@ with tab2:
     </div>
 </div>
 
-    <div class="insights-box">
-        <div class="insights-title">📊 Market Overview</div>
-        <div class="insights-text">
-            - <b>Used cars</b> make up the majority of listings on the cars.com website, accounting for <b>55.8%</b>, while <b>new cars</b> represent <b>44.2%</b>.<br>
-            - Additionally, <b>8.9%</b> of used cars are certified, indicating their excellent condition.
-        </div>
+<div class="insights-box">
+    <div class="insights-title">📊 Market Overview</div>
+    <div class="insights-text">
+        - <b>Used cars</b> make up the majority of listings on the cars.com website, accounting for <b>55.8%</b>, while <b>new cars</b> represent <b>44.2%</b>.<br>
+        - Additionally, <b>8.9%</b> of used cars are certified, indicating their excellent condition.
     </div>
+</div>
 
-    <div class="insights-box">
-        <div class="insights-title">💰 Price and Monthly Payment Relationship</div>
-        <div class="insights-text">
-            - The monthly payment is directly proportional to the overall price of the car.<br>
-            - This relationship follows the equation: <br>
-              <b>Price = ((53.2 * 1e6) × Monthly Payment) - (8.96 * 1e6)</b><br>
-            - Where: <br>
-              &nbsp;&nbsp;📌 <b>Coefficient:</b> 53.2 * 1e6 <br>
-              &nbsp;&nbsp;📌 <b>Intercept:</b> -8.96 * 1e6<br>
-              &nbsp;&nbsp;📌 <b>The price is in (USD).</b> <br>
-            - This suggests that higher monthly payments generally indicate a higher total price for the car.
-        </div>
+<div class="insights-box">
+    <div class="insights-title">💰 Price and Monthly Payment Relationship</div>
+    <div class="insights-text">
+        - The monthly payment is directly proportional to the overall price of the car.<br>
+        - This relationship follows the equation: <br>
+          <b>Price = ((53.2 * 1e6) × Monthly Payment) - (8.96 * 1e6)</b><br>
+        - Where: <br>
+          &nbsp;&nbsp;📌 <b>Coefficient:</b> 53.2 * 1e6 <br>
+          &nbsp;&nbsp;📌 <b>Intercept:</b> -8.96 * 1e6<br>
+          &nbsp;&nbsp;📌 <b>The price is in (USD).</b> <br>
+        - This suggests that higher monthly payments generally indicate a higher total price for the car.
     </div>
+</div>
 
-    <div class="insights-box">
-        <div class="insights-title">🏆 Dealer Market Influence</div>
-        <div class="insights-text">
-            - The market is dominated by a few major dealers, with the top 4 (*Golf Mill Ford*, *Mercedes-Benz of Hoffman Estates*, *The Audi Exchange*, and *Ed Napleton Acura*) accounting for over <b>40%</b> of total sales among the top 10 dealers.<br>
-            - Interestingly, the <b>Top 10 Dealers</b> with the highest number of sales are <b>not</b> the same as the <b>Top 10 Dealers</b> with the highest average car prices—there is no overlap between these two groups.
-        </div>
+<div class="insights-box">
+    <div class="insights-title">🏆 Dealer Market Influence</div>
+    <div class="insights-text">
+        - The market is dominated by a few major dealers, with the top 4 (*Golf Mill Ford*, *Mercedes-Benz of Hoffman Estates*, *The Audi Exchange*, and *Ed Napleton Acura*) accounting for over <b>40%</b> of total sales among the top 10 dealers.<br>
+        - Interestingly, the <b>Top 10 Dealers</b> with the highest number of sales are <b>not</b> the same as the <b>Top 10 Dealers</b> with the highest average car prices—there is no overlap between these two groups.
     </div>
+</div>
     """,
     unsafe_allow_html=True
 )
+    
 
 
 #### 
