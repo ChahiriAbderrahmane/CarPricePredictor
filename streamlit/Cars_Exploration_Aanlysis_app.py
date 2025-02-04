@@ -313,16 +313,16 @@ with tab2:
     <div class="insights-title">🚀 Key Insights</div>
     <div class="insights-text">
         Data Anomalies:
-        - Significant price variations driven by luxury and economy vehicles<br>
-        - Mileage extremes reflecting vehicle age and usage patterns<br>
-        - Year range includes both vintage and modern vehicles<br>   
+        - Significant price variations driven by luxury and economy vehicles\n
+        - Mileage extremes reflecting vehicle age and usage patterns\n
+        - Year range includes both vintage and modern vehicles\n   
         Outlier Distribution by Brand:
-        - Top outlier brands suggest diverse market representation<br>
-        - When analyzed by brand, <b>Chevrolet, Ford, Toyota, Audi, Mercedes-Benz,</b> and <b>GMC</b> have the highest number of outliers.<br>
+        - Top outlier brands suggest diverse market representation\n
+        - When analyzed by brand, <b>Chevrolet, Ford, Toyota, Audi, Mercedes-Benz,</b> and <b>GMC</b> have the highest number of outliers.\n
         
         Analysis Implications:
-        - Need for robust statistical techniques to handle extreme values<br>
-        - Importance of segmented analysis by vehicle's brand<br>
+        - Need for robust statistical techniques to handle extreme values\n
+        - Importance of segmented analysis by vehicle's brand\n
         - Data cleaning and normalization strategies recommended
     </div>
 </div>
