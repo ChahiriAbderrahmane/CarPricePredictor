@@ -334,7 +334,7 @@ with tab2:
 </style>
 """, unsafe_allow_html=True)
 
-# Function to create consistent insight boxes
+
 def create_insight_box(title, emoji, content):
     return f"""
     <div class="container">
