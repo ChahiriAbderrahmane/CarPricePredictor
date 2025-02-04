@@ -280,60 +280,129 @@ with tab1 :
             st.markdown('</div>', unsafe_allow_html=True) 
 
 with tab2:
-    # Display insights with custom styling
-    st.markdown(
-    """
-<div class="insights-box">
-    <div class="insights-title">🚀 Key Insights</div>
-    <div class="insights-text">
-        Data Anomalies:
-        - Significant price variations driven by luxury and economy vehicles\n
-        - Mileage extremes reflecting vehicle age and usage patterns\n
-        - Year range includes both vintage and modern vehicles\n   
-        Outlier Distribution by Brand:
-        - Top outlier brands suggest diverse market representation\n
-        - When analyzed by brand, <b>Chevrolet, Ford, Toyota, Audi, Mercedes-Benz,</b> and <b>GMC</b> have the highest number of outliers.\n
-        
-        Analysis Implications:
-        - Need for robust statistical techniques to handle extreme values\n
-        - Importance of segmented analysis by vehicle's brand\n
-        - Data cleaning and normalization strategies recommended
-    </div>
-</div>
+    # Ajout de styles CSS pour un affichage centré et plus professionnel
+    st.markdown("""
+    <style>
+        body {
+            background-color: #f4f4f9;
+            font-family: 'Arial', sans-serif;
+        }
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            padding: 30px;
+        }
+        .insights-box {
+            background-color: #ffffff;
+            border: 1px solid #e0e0e0;
+            border-radius: 12px;
+            padding: 25px 30px;
+            margin: 15px 0;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 80%;
+            max-width: 700px;
+            transition: transform 0.3s ease;
+            text-align: left;
+        }
+        .insights-box:hover {
+            transform: scale(1.02);
+        }
+        .insights-title {
+            font-size: 24px;
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 15px;
+            text-align: center;
+        }
+        .insights-text {
+            font-size: 15px;
+            color: #555;
+            line-height: 1.7;
+        }
+        .insights-text b {
+            color: #000;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+    </style>
+""", unsafe_allow_html=True)
 
-<div class="insights-box">
-    <div class="insights-title">📊 Market Overview</div>
-    <div class="insights-text">
-        - <b>Used cars</b> make up the majority of listings on the cars.com website, accounting for <b>55.8%</b>, while <b>new cars</b> represent <b>44.2%</b>.<br>
-        - Additionally, <b>8.9%</b> of used cars are certified, indicating their excellent condition.
+    # Contenu HTML avec un conteneur central
+    st.markdown("""
+<div class="container">
+    <div class="insights-box">
+        <div class="insights-title">🚀 Key Insights</div>
+        <div class="insights-text">
+            <ul>
+                <li><b>Data Anomalies:</b>
+                    <ul>
+                        <li>Significant price variations driven by luxury and economy vehicles.</li>
+                        <li>Mileage extremes reflecting vehicle age and usage patterns.</li>
+                        <li>Year range includes both vintage and modern vehicles.</li>
+                    </ul>
+                </li>
+                <li><b>Outlier Distribution by Brand:</b>
+                    <ul>
+                        <li>Top outlier brands suggest diverse market representation.</li>
+                        <li>Brands with highest outliers: <b>Chevrolet, Ford, Toyota, Audi, Mercedes-Benz, GMC</b>.</li>
+                    </ul>
+                </li>
+                <li><b>Analysis Implications:</b>
+                    <ul>
+                        <li>Need for robust statistical techniques to handle extreme values.</li>
+                        <li>Importance of segmented analysis by vehicle's brand.</li>
+                        <li>Data cleaning and normalization strategies recommended.</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
     </div>
-</div>
 
-<div class="insights-box">
-    <div class="insights-title">💰 Price and Monthly Payment Relationship</div>
-    <div class="insights-text">
-        - The monthly payment is directly proportional to the overall price of the car.<br>
-        - This relationship follows the equation: <br>
-          <b>Price = ((53.2 * 1e6) × Monthly Payment) - (8.96 * 1e6)</b><br>
-        - Where: <br>
-          &nbsp;&nbsp;📌 <b>Coefficient:</b> 53.2 * 1e6 <br>
-          &nbsp;&nbsp;📌 <b>Intercept:</b> -8.96 * 1e6<br>
-          &nbsp;&nbsp;📌 <b>The price is in (USD).</b> <br>
-        - This suggests that higher monthly payments generally indicate a higher total price for the car.
+    <div class="insights-box">
+        <div class="insights-title">📊 Market Overview</div>
+        <div class="insights-text">
+            <ul>
+                <li><b>Used cars</b> make up 55.8% of listings, while <b>new cars</b> represent 44.2%.</li>
+                <li><b>8.9%</b> of used cars are certified, indicating excellent condition.</li>
+            </ul>
+        </div>
     </div>
-</div>
 
-<div class="insights-box">
-    <div class="insights-title">🏆 Dealer Market Influence</div>
-    <div class="insights-text">
-        - The market is dominated by a few major dealers, with the top 4 (*Golf Mill Ford*, *Mercedes-Benz of Hoffman Estates*, *The Audi Exchange*, and *Ed Napleton Acura*) accounting for over <b>40%</b> of total sales among the top 10 dealers.<br>
-        - Interestingly, the <b>Top 10 Dealers</b> with the highest number of sales are <b>not</b> the same as the <b>Top 10 Dealers</b> with the highest average car prices—there is no overlap between these two groups.
+    <div class="insights-box">
+        <div class="insights-title">💰 Price and Monthly Payment Relationship</div>
+        <div class="insights-text">
+            <ul>
+                <li>The monthly payment is directly proportional to the car's price.</li>
+                <li>Relationship: <b>Price = (53.2 × 10⁶ × Monthly Payment) - 8.96 × 10⁶</b></li>
+                <li><b>Key Points:</b>
+                    <ul>
+                        <li><b>Coefficient:</b> 53.2 × 10⁶</li>
+                        <li><b>Intercept:</b> -8.96 × 10⁶</li>
+                        <li><b>Price in USD.</b></li>
+                    </ul>
+                </li>
+                <li>Higher monthly payments indicate a higher total car price.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="insights-box">
+        <div class="insights-title">🏆 Dealer Market Influence</div>
+        <div class="insights-text">
+            <ul>
+                <li>Top 4 dealers (<i>Golf Mill Ford, Mercedes-Benz of Hoffman Estates, The Audi Exchange, Ed Napleton Acura</i>) account for over <b>40%</b> of sales among the top 10.</li>
+                <li>No overlap between the <b>Top 10 Dealers</b> with the highest sales and those with the highest average prices.</li>
+            </ul>
+        </div>
     </div>
 </div>
-    """,
-    unsafe_allow_html=True
-)
-    
+""", unsafe_allow_html=True)
 
 
 #### 
