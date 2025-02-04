@@ -69,7 +69,7 @@ The **price prediction model** is built using a **RandomForestRegressor**. Final
 
 ## 📝 Project Architecture
 
-![Project Arch](https://github.com/ChahiriAbderrahmane/CarPricePredictor/blob/main/assets/cars_ds_pworkflow.jpg)
+![Project Arch](https://github.com/ChahiriAbderrahmane/CarPricePredictor/blob/main/assets/cars_ds_pworkflow.png)
 
 ### 🛠️ Technologies Used
 
