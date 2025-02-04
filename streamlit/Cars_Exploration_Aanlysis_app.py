@@ -348,7 +348,7 @@ def create_insight_box(title, emoji, content):
     """
 
 # Render each insight box with consistent styling
-st.markdown(create_insight_box("🚀 Key Insights", "", """
+st.markdown(create_insight_box("🚀 Key Insights", "", r"""
 <ul>
     <li><b>Data Anomalies:</b>
         <ul>
