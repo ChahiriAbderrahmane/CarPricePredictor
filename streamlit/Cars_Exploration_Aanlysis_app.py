@@ -334,73 +334,73 @@ with tab2:
 </style>
 """, unsafe_allow_html=True)
 
-def create_insight_box(title, emoji, content):
+    def create_insight_box(title, emoji, content):
     # Suppression des espaces pour éviter l'interprétation Markdown
-    return f"""
-<div class="container">
-<div class="insights-box">
-<div class="insights-title">{emoji} {title}</div>
-<div class="insights-text">
-{content}
-</div>
-</div>
-</div>
-"""
+        return f"""
+    <div class="container">
+    <div class="insights-box">
+    <div class="insights-title">{emoji} {title}</div>
+    <div class="insights-text">
+    {content}
+    </div>
+    </div>
+    </div>
+    """
 
 # Render each insight box with consistent styling
-st.markdown(create_insight_box("🚀 Key Insights", "", r"""
-<ul>
-<li><b>Data Anomalies:</b>
-<ul>
-<li>Significant price variations driven by luxury and economy vehicles.</li>
-<li>Mileage extremes reflecting vehicle age and usage patterns.</li>
-<li>Year range includes both vintage and modern vehicles.</li>
-</ul>
-</li>
-<li><b>Outlier Distribution by Brand:</b>
-<ul>
-<li>Top outlier brands suggest diverse market representation.</li>
-<li>Brands with highest outliers: <b>Chevrolet, Ford, Toyota, Audi, Mercedes-Benz, GMC</b>.</li>
-</ul>
-</li>
-<li><b>Analysis Implications:</b>
-<ul>
-<li>Need for robust statistical techniques to handle extreme values.</li>
-<li>Importance of segmented analysis by vehicle brand.</li>
-<li>Data cleaning and normalization strategies recommended.</li>
-</ul>
-</li>
-</ul>
-"""), unsafe_allow_html=True)
+    st.markdown(create_insight_box("🚀 Key Insights", "", r"""
+    <ul>
+    <li><b>Data Anomalies:</b>
+    <ul>
+    <li>Significant price variations driven by luxury and economy vehicles.</li>
+    <li>Mileage extremes reflecting vehicle age and usage patterns.</li>
+    <li>Year range includes both vintage and modern vehicles.</li>
+    </ul>
+    </li>
+    <li><b>Outlier Distribution by Brand:</b>
+    <ul>
+    <li>Top outlier brands suggest diverse market representation.</li>
+    <li>Brands with highest outliers: <b>Chevrolet, Ford, Toyota, Audi, Mercedes-Benz, GMC</b>.</li>
+    </ul>
+    </li>
+    <li><b>Analysis Implications:</b>
+    <ul>
+    <li>Need for robust statistical techniques to handle extreme values.</li>
+    <li>Importance of segmented analysis by vehicle brand.</li>
+    <li>Data cleaning and normalization strategies recommended.</li>
+    </ul>
+    </li>
+    </ul>
+    """), unsafe_allow_html=True)
 
-st.markdown(create_insight_box("📊 Market Overview", "", """
-<ul>
-<li><b>Used cars</b> make up 55.8% of listings, while <b>new cars</b> represent 44.2%.</li>
-<li><b>8.9%</b> of used cars are certified, indicating excellent condition.</li>
-</ul>
-"""), unsafe_allow_html=True)
+    st.markdown(create_insight_box("📊 Market Overview", "", """
+    <ul>
+    <li><b>Used cars</b> make up 55.8% of listings, while <b>new cars</b> represent 44.2%.</li>
+    <li><b>8.9%</b> of used cars are certified, indicating excellent condition.</li>
+    </ul>
+    """), unsafe_allow_html=True)
 
-st.markdown(create_insight_box("💰 Price and Monthly Payment Relationship", "", """
-<ul>
-<li>The monthly payment is directly proportional to the car's price.</li>
-<li>Relationship: <b>Price = (53.2 × 10⁶ × Monthly Payment) - 8.96 × 10⁶</b></li>
-<li><b>Key Points:</b>
-<ul>
-<li><b>Coefficient:</b> 53.2 × 10⁶</li>
-<li><b>Intercept:</b> -8.96 × 10⁶</li>
-<li><b>Price in USD.</b></li>
-</ul>
-</li>
-<li>Higher monthly payments indicate a higher total car price.</li>
-</ul>
-"""), unsafe_allow_html=True)
+    st.markdown(create_insight_box("💰 Price and Monthly Payment Relationship", "", """
+    <ul>
+    <li>The monthly payment is directly proportional to the car's price.</li>
+    <li>Relationship: <b>Price = (53.2 × 10⁶ × Monthly Payment) - 8.96 × 10⁶</b></li>
+    <li><b>Key Points:</b>
+    <ul>
+    <li><b>Coefficient:</b> 53.2 × 10⁶</li>
+    <li><b>Intercept:</b> -8.96 × 10⁶</li>
+    <li><b>Price in USD.</b></li>
+    </ul>
+    </li>
+    <li>Higher monthly payments indicate a higher total car price.</li>
+    </ul>
+    """), unsafe_allow_html=True)
 
-st.markdown(create_insight_box("🏆 Dealer Market Influence", "", """
-<ul>
-<li>Top 4 dealers (<i>Golf Mill Ford, Mercedes-Benz of Hoffman Estates, The Audi Exchange, Ed Napleton Acura</i>) account for over <b>40%</b> of sales among the top 10.</li>
-<li>No overlap between the <b>Top 10 Dealers</b> with the highest sales and those with the highest average prices.</li>
-</ul>
-"""), unsafe_allow_html=True)
+    st.markdown(create_insight_box("🏆 Dealer Market Influence", "", """
+    <ul>
+    <li>Top 4 dealers (<i>Golf Mill Ford, Mercedes-Benz of Hoffman Estates, The Audi Exchange, Ed Napleton Acura</i>) account for over <b>40%</b> of sales among the top 10.</li>
+    <li>No overlap between the <b>Top 10 Dealers</b> with the highest sales and those with the highest average prices.</li>
+    </ul>
+    """), unsafe_allow_html=True)
 
 with st.sidebar:
     st.title('🚗 Cars Exploration & Price Prediction | Analyzing Cars.com Listings')
