@@ -366,7 +366,7 @@ st.markdown(create_insight_box("🚀 Key Insights", "", r"""
     <li><b>Analysis Implications:</b>
         <ul>
             <li>Need for robust statistical techniques to handle extreme values.</li>
-            <li>Importance of segmented analysis by vehicle's brand.</li>
+            <li>Importance of segmented analysis by vehicle brand.</li>
             <li>Data cleaning and normalization strategies recommended.</li>
         </ul>
     </li>
@@ -401,8 +401,6 @@ st.markdown(create_insight_box("🏆 Dealer Market Influence", "", """
     <li>No overlap between the <b>Top 10 Dealers</b> with the highest sales and those with the highest average prices.</li>
 </ul>
 """), unsafe_allow_html=True)
-
-
 #### 
 
 with st.sidebar:
