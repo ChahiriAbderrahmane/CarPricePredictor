@@ -54,7 +54,7 @@ with st.sidebar:
     st.title('🚗 Cars Exploration & Price Prediction | Analyzing Cars.com Listings')
     st.logo("assets/cars_com_Logo.jpg",size='large')
 
-# Hide Left Menu
+# Hide Left Menu .
 st.markdown("""<style>
 #MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
