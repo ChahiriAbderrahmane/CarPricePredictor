@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://carpricepredictoranalyser-chahiri.streamlit.app/">
-    <img src="https://github.com/ChahiriAbderrahmane/CarPricePredictor/blob/main/assets/image_data1.jpg" alt="Banner" width="720">
+    <img src="https://github.com/ChahiriAbderrahmane/CarPricePredictor/blob/main/assets/image_data1.png" alt="Banner" width="720">
   </a>
 
   <div id="user-content-toc">
